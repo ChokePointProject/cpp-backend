@@ -16,8 +16,9 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
 gem 'haml'
+gem 'jquery-rails'
+gem 'nifty-generators'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
