@@ -11,7 +11,52 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111108211024) do
+ActiveRecord::Schema.define(:version => 20111108223211) do
+
+  create_table "city_maps", :force => true do |t|
+    t.string   "city"
+    t.string   "name"
+    t.string   "region"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "city_measurements", :force => true do |t|
+    t.date     "month"
+    t.float    "DownloadThroughputSplitByClientAndByServer"
+    t.float    "UploadThroughputSplitByClientAndByServer"
+    t.float    "RTTSplitByClientAndByServer"
+    t.float    "NetLimitedSplitByClientAndByServer"
+    t.float    "ClientLimitedSplitByClientAndByServer"
+    t.float    "WinScaleRcvdSplitByClientAndByServer"
+    t.float    "NumberOfClientsSplitByClientAndByServer"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "country_maps", :primary_key => "country", :force => true do |t|
+    t.string   "name"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "country_measurements", :force => true do |t|
+    t.integer  "country"
+    t.date     "month"
+    t.float    "DownloadThroughputSplitByClientAndByServer"
+    t.float    "UploadThroughputSplitByClientAndByServer"
+    t.float    "RTTSplitByClientAndByServer"
+    t.float    "NetLimitedSplitByClientAndByServer"
+    t.float    "ClientLimitedSplitByClientAndByServer"
+    t.float    "WinScaleRcvdSplitByClientAndByServer"
+    t.float    "NumberOfClientsSplitByClientAndByServer"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "world_measurements", :force => true do |t|
     t.date     "month"

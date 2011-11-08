@@ -2,7 +2,7 @@ class CountryMeasurementsController < ApplicationController
   # GET /country_measurements
   # GET /country_measurements.json
   def index
-    @country_measurements = CountryMeasurement.all
+    @country_measurements = CountryMeasurement.where(:country => params["country_map_id"])
 
     respond_to do |format|
       format.html # index.html.erb

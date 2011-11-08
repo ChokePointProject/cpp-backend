@@ -1,4 +1,14 @@
 CppBackend::Application.routes.draw do
+  resources :city_maps
+
+  resources :country_maps do
+    resources :country_measurements 
+  end
+
+  resources :city_measurements
+
+  resources :country_measurements
+
   resources :world_measurements
 
   # The priority is based upon order of creation:
