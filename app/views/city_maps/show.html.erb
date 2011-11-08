@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>City:</b>
+  <%= @city_map.city %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @city_map.name %>
+</p>
+
+<p>
+  <b>Region:</b>
+  <%= @city_map.region %>
+</p>
+
+<p>
+  <b>Latitude:</b>
+  <%= @city_map.latitude %>
+</p>
+
+<p>
+  <b>Longtitude:</b>
+  <%= @city_map.longtitude %>
+</p>
+
+
+<%= link_to 'Edit', edit_city_map_path(@city_map) %> |
+<%= link_to 'Back', city_maps_path %>

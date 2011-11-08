@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Month:</b>
+  <%= @country_measurement.month %>
+</p>
+
+<p>
+  <b>Downloadthroughputsplitbyclientandbyserver:</b>
+  <%= @country_measurement.DownloadThroughputSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Uploadthroughputsplitbyclientandbyserver:</b>
+  <%= @country_measurement.UploadThroughputSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Rttsplitbyclientandbyserver:</b>
+  <%= @country_measurement.RTTSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Netlimitedsplitbyclientandbyserver:</b>
+  <%= @country_measurement.NetLimitedSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Clientlimitedsplitbyclientandbyserver:</b>
+  <%= @country_measurement.ClientLimitedSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Winscalercvdsplitbyclientandbyserver:</b>
+  <%= @country_measurement.WinScaleRcvdSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Numberofclientssplitbyclientandbyserver:</b>
+  <%= @country_measurement.NumberOfClientsSplitByClientAndByServer %>
+</p>
+
+
+<%= link_to 'Edit', edit_country_measurement_path(@country_measurement) %> |
+<%= link_to 'Back', country_measurements_path %>

@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Month:</b>
+  <%= @city_measurement.month %>
+</p>
+
+<p>
+  <b>Downloadthroughputsplitbyclientandbyserver:</b>
+  <%= @city_measurement.DownloadThroughputSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Uploadthroughputsplitbyclientandbyserver:</b>
+  <%= @city_measurement.UploadThroughputSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Rttsplitbyclientandbyserver:</b>
+  <%= @city_measurement.RTTSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Netlimitedsplitbyclientandbyserver:</b>
+  <%= @city_measurement.NetLimitedSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Clientlimitedsplitbyclientandbyserver:</b>
+  <%= @city_measurement.ClientLimitedSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Winscalercvdsplitbyclientandbyserver:</b>
+  <%= @city_measurement.WinScaleRcvdSplitByClientAndByServer %>
+</p>
+
+<p>
+  <b>Numberofclientssplitbyclientandbyserver:</b>
+  <%= @city_measurement.NumberOfClientsSplitByClientAndByServer %>
+</p>
+
+
+<%= link_to 'Edit', edit_city_measurement_path(@city_measurement) %> |
+<%= link_to 'Back', city_measurements_path %>

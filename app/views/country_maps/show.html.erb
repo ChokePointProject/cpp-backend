@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Country:</b>
+  <%= @country_map.country %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @country_map.name %>
+</p>
+
+<p>
+  <b>Latitude:</b>
+  <%= @country_map.latitude %>
+</p>
+
+<p>
+  <b>Longtitude:</b>
+  <%= @country_map.longtitude %>
+</p>
+
+
+<%= link_to 'Edit', edit_country_map_path(@country_map) %> |
+<%= link_to 'Back', country_maps_path %>

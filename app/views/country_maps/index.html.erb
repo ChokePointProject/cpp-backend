@@ -1,0 +1,29 @@
+<h1>Listing country_maps</h1>
+
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Name</th>
+    <th>Latitude</th>
+    <th>Longtitude</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @country_maps.each do |country_map| %>
+  <tr>
+    <td><%= country_map.country %></td>
+    <td><%= country_map.name %></td>
+    <td><%= country_map.latitude %></td>
+    <td><%= country_map.longtitude %></td>
+    <td><%= link_to 'Show', country_map %></td>
+    <td><%= link_to 'Edit', edit_country_map_path(country_map) %></td>
+    <td><%= link_to 'Destroy', country_map, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Country map', new_country_map_path %>
