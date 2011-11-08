@@ -1,4 +1,6 @@
 CppBackend::Application.routes.draw do
+  resources :world_measurements
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

@@ -19,6 +19,9 @@ end
 gem 'haml'
 gem 'jquery-rails'
 gem 'nifty-generators'
+gem 'execjs' 
+gem 'therubyracer'
+gem 'ruby-debug19'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  month: 2011-11-08
+  DownloadThroughputSplitByClientAndByServer: 1.5
+  UploadThroughputSplitByClientAndByServer: 1.5
+  RTTSplitByClientAndByServer: 1.5
+  NetLimitedSplitByClientAndByServer: 1.5
+  ClientLimitedSplitByClientAndByServer: 1.5
+  WinScaleRcvdSplitByClientAndByServer: 1.5
+  NumberOfClientsSplitByClientAndByServer: 1.5
+
+two:
+  month: 2011-11-08
+  DownloadThroughputSplitByClientAndByServer: 1.5
+  UploadThroughputSplitByClientAndByServer: 1.5
+  RTTSplitByClientAndByServer: 1.5
+  NetLimitedSplitByClientAndByServer: 1.5
+  ClientLimitedSplitByClientAndByServer: 1.5
+  WinScaleRcvdSplitByClientAndByServer: 1.5
+  NumberOfClientsSplitByClientAndByServer: 1.5

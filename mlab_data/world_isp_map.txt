@@ -1,0 +1,1860 @@
+isp,name
+1,Level 3 Communications
+10010,VICTOKAI
+10013,FreeBit
+10029,FIRST FIBRE BROADBAND NETWORK IN NEW DELHI
+10030,Celcom Internet Service Provider
+10036,C&M Communication
+10066,CJ-CABLENET
+10081,DiGi Telecommunications Sdn Bhd
+10089,Total Access Communication
+10091,StarHub Cable Vision
+10094,BruNet ISP
+101,University of Washington
+10113,DATAFAST TELECOMMUNICATIONS
+10139,Smart Broadband
+10143,Exetel
+10164,TBROAD GANGSEO
+10191,C&M Ulsan Cable TV
+10199,Tata Communications
+10201,Dishnet Wireless Broadband Wireless
+10269,Belize Telemedia
+10292,CWJAMAICA
+10293,Servicios
+10299,EMCATEL
+10311,Road Runner
+10318,CABLEVISION
+10368,RCN
+10396,DATACOM CARIBE
+10429,Telefonica Empresas
+10456,AT&T Services
+10474,MWEB-10474
+10481,Prima
+10482,Shaw Communications
+10490,Georgia Institute of Technology
+10507,Sprint Personal Communications Systems
+10620,Telmex Colombia
+10687,DISTRIBUTEL COMMUNICATIONS
+10719,Verizon Online
+10728,T-Mobile USA
+10780,One Communications
+10784,MCI Communications Services
+10805,XO Communications
+10834,Telefonica de Argentina
+10838,Oceanic Internet
+10937,Centennial de Puerto Rico
+10983,Telecom Argentina
+10996,Concorde
+1102,SURFnet
+11055,US Cable of Paramus-Hillsdale
+11079,Allstream
+11081,United Telecommunication Services (UTS)
+11139,CW BARBADOS
+11158,NTT America
+11172,Alestra
+11232,Midcontinent Media
+11260,EastLink
+11290,COGECO Cable Canada
+11315,Telefónica Móviles Argentina (Movistar Argentina)
+11349,Windstream Communications
+1136,KPN Internet Solutions
+11380,INTERNETOFFICEPARKS
+11398,Embarq
+11444,Primus Telecommunications
+11456,Windstream Nuvox
+11489,Bell Canada
+11492,CABLE ONE
+11536,Sunrise Communications
+11556,Cable & Wireless Panama
+11664,Techtel LMDS Comunicaciones Interactivas
+11666,Nexicom
+11776,Atlantic Broadband Finance
+11796,Airstream Communications
+11816,SetarNet
+11818,BRIGHT HOUSE NETWORKS
+11830,Instituto Costarricense de Electricidad y Telecom.
+11888,Television Internacional
+11976,Fidelity Networks
+11979,Bluegrass Network
+12003,Integra Telecom
+12015,Sunflower Broadband
+12064,Cox Communications
+12066,TRICOM
+12083,Knology
+12091,MTNNS
+12097,Massillon Cable Communications
+12156,STSN GENERAL
+1221,Telstra
+12231,Conway
+12252,Telmex Peru
+12254,ITC
+12293,Digiweb
+12297,Armenia Telephone Company
+12301,Invitel Tavkozlesi
+12302,VODAFONE_RO MobiFon
+12305,NORTENET- Sistemas de Comunicacao
+12313,Versatel West
+12322,Free
+12324,Poland
+12326,T-Com Croatia Internet network
+12332,Rostelecom
+12334,R Cable y Telecomunicaciones Galicia
+12338,Euskaltel
+12350,VTX Services
+12353,Vodafone Portugal
+12355,HeLi NET Telekommunikation
+12357,VODAFONE ESPANA
+12361,PanafonNet
+12365,Sarkor-Telecom is an ISP in Uzbekistan
+12375,DNA
+1239,Sprint
+12390,KCOM Group Public
+12392,Object for Brutele SC
+12400,Partner Communications
+12406,Business network
+1241,Forthnet
+12414,SOLCON
+12418,Quantum
+12421,Golden Telecom
+12430,VODAFONE_ES VODAFONE ESPANA
+12440,Hughes Network Systems
+12452,ReasonUP
+12455,JAMBONET
+1246,Windjammer Communications
+12476,ASTER
+12479,France Telecom Espana
+12486,YT - YEMEN NET Autonomous Number
+12493,Mobistar
+12494,POST
+12497,Caucasus Online
+12513,Eclipse Internet
+12542,TVCABO
+12543,KUBTELECOM
+12552,IP-Only Telecommunication Networks
+1257,TELE2
+12570,S E L F servis
+12576,Orange PCS
+12578,LATTELEKOM-APOLLO
+12594,EXTERNET
+12605,LIWEST Kabelmedien
+12615,Global Communication Net
+12626,Societe Francaise du Radiotelephone
+12632,Digi.Net.Mobil
+12634,CyberComm
+12635,Orange Austria Telecommunication
+12638,E-Plus Mobilfunk
+12644,Telemach
+12656,A1 Telekom Austria
+12668,EXTRIM
+1267,Infostrada
+12670,Completel
+12688,Baikal-TransTeleCom
+12695,Digital Network
+12708,TalkTalk Communications
+12709,Melita Cable
+12714,Fairlie
+12715,Jazz Telecom
+12716,MOBILTEL
+12730,INECO_AS Rostelecom
+12735,TurkNet Iletisim Hizmetleri A.S
+12741,Netia
+12742,PRIVATE FARLEP-INVEST
+12743,PTK Centertel
+12768,ER-Telecom 
+12772,Enforta
+12796,Interbild
+12810,VIPnet
+12829,AngelSoft ET
+12838,EDPNET
+12844,Bouygues Telecom
+12871,Concepts ICT
+12872,MegaStyle-Service
+12874,Fastweb
+12880,Information Technology Company (ITC)
+12912,Polska Telefonia Cyfrowa
+12926,Ar Telecom
+12929,NetCom
+12946,TELECABLE
+12958,Moscow Cellular Communications
+12968,Crowley Data Poland
+12969,VODAFONE_ICELAND Vodafone Iceland
+12975,PALTEL
+12978,Dogan Iletisim Elektronik Servis Hizmetleri ve Yayincilik Anonim Sirketi
+1299,TeliaNet Global Network
+12997,Kyrgyztelecom
+13000,Leon
+13036,RadioMobil
+13037,Zen Internet
+13045,htp
+13046,ISKON INTERNET za informatiku i telekomunikacije
+13055,Comstar-Regions
+13062,LANCK Telecom
+13076,Virgin Media
+1309,Reseau National de telecommunications pour la Technologie
+131,University of California
+131089,AS131089
+131090,AS131090
+13110,INEA
+13122,MANX-TELECOM
+131222,AS131222
+13124,Eurocom Cable Management Bulgaria
+13127,the Trans-European Tele2 IP Transport backbone
+13156,Cabovisao
+13170,Kaisanet
+13174,Mobile TeleSystems
+13178,Digital communications
+13184,HanseNet Telekommunikation
+13188,TOV Bank-Inform
+13189,Liden Data Internetwork
+13194,Bite Lietuva
+13213,UK-2
+13257,Polarcom
+13272,Starman Internet
+13280,Ireland
+13304,Surguttel
+13333,Consolidated Communications
+13367,Comcast Cable Communications
+13399,Microsoft
+13489,Telecomunicaciones E.S.P.
+13490,Buckeye Cablevision
+13501,OARnet
+13672,FAIRPOINT COMMUNICATIONS
+13678,PaeTec Communications
+13682,MOVILES GUATEMALA
+137,GARR Italian academic and research network
+13879,Equant
+13926,Reliablehosting.com
+13937,Uniserve On Line
+13999,Mega Cable
+14000,Axtel
+14051,Roseville Telephone Company
+14117,Telefonica del Sur
+14156,Grande Communications Networks
+14259,Gtd Internet
+14265,Telepacific Communications
+14291,Antietam Cable Television
+14366,Mountain Cablevision
+14367,TDS TELECOM
+14420,NACIONAL DE TELECOMUNICACIONES - CNT EP
+14522,Satnet
+14615,Comporium Communications
+14638,Liberty Cablevision of Puerto Rico
+14654,AT&T Wireless Services
+14677,Click! Network
+14730,Cavalier Telephone
+14754,Telgua
+14868,Companhia Paranaense de Energia - COPEL
+14924,Merit Network
+14988,BTC-GATE1
+15003,Nobis Technology Group
+15040,Tango
+15083,Infolink
+15091,Shentel Service Company
+15146,Cable Bahamas
+15162,Cricket Communications
+15318,McGill University
+15321,Maskatel
+15344,Karib Cable
+15377,ISP Fregat
+15389,FO-FOTELECOM-990315
+15399,WANANCHI-KE
+15419,SC LRTC Internet services
+15425,Coma
+15435,CAIW
+15457,CABOTVM.PT
+15467,Enternet 2001
+1547,Interdnestrcom
+15475,NOL
+15480,Vodafone NL
+15493,Russian Company network
+15502,Vodafone Ireland
+15516,Arrowhead
+15525,PT PRIME - Solucoes Empresariais de Telecomunicacoes e Sistemas
+15527,Anvia
+15542,ZeelandNet
+15547,netplus.ch
+15555,Magyar Telekom
+15582,AKADO-Stolitsa
+15589,Eutelia Backbone
+15595,Skyline
+15600,Finecom Telecommunications
+15606,NASK Research and Academic Computer Networks
+15617,TIM Hellas Telecommunications
+15638,Ussuri-Teleservice Ussuriysk
+15640,for ru.ccl
+15658,Digit One
+15659,NEXTGENTEL
+15670,BBNED #1 BBned NV
+15673,Teleseti Plus
+15685,Casablanca INT
+15706,Sudatel
+15709,Vodafone D2
+15723,Azeronline Information Services
+15732,Iberbanda Spanish operations
+15735,GO
+15738,EXPRESS Radio Network
+15744,Silesian University of Technology
+15747,osnatel
+15751,Meteor Mobile Communication Ireland
+15765,Tafjord Mimer
+15774,Closed TransTeleCom
+15782,Perspektiv Bredband
+15802,Emirates Integrated Telecommunications Company (EITC-DU)
+15803,MC-link
+15808,ACCESSKENYA GROUP
+15836,ARAX I.S.P.
+15855,SFERIA
+15857,Telefonia Dialog
+15895,Kyivstar GSM
+15897,Vodafone Telekomunikasyon A.S
+15935,ha-vel internet spol.
+15943,wilhelm.tel Norderstedt
+15962,ORANGE Slovensko - ISP IP backbone
+15964,CAMNET
+15974,Volgatranstelecom
+15994,B.Net Hrvatska
+16014,EMT
+16016,Tusmobil
+16043,Samara Telecom
+16047,TRK TV-Service
+16117,se.gavlenet
+16135,TURKCELL ILETISIM HIZMETLERI
+16160,SWAN
+16175,Signal Bredband
+16202,Primacom
+16223,BitterNet
+16229,ThunderWorx
+16230,Skynet
+16232,TIM (Telecom Italia Mobile)
+16245,NetGroup
+16246,RIOMEDIA
+16265,LeaseWeb
+16276,OVH Systems
+16285,Ural-TransTeleCom
+16299,Xfera Moviles
+16300,Intertax
+16301,Novgorod Datacom
+16305,mobilkom austria
+16322,PARSONLINE
+16333,ONE Telecommunications Services Stock Company Skopje
+16338,Cableuropa - ONO
+16340,IS-NET
+16342,Toya
+16345,VimpelCom
+16366,ASTER Krakow
+1653,SUNET Swedish University Network
+16532,B2B2C
+16586,Clearwire US
+1659,Tiawan Academic Network (TANet) Information Center
+1668,AOL Transit Data Network
+16735,Companhia de Telecomunicacoes do Brasil Central
+16787,Charter Communications
+1680,013 NetVision
+16814,NSS
+16835,CenturyTel Internet
+16960,Cablevision Red
+17,Purdue University
+1704,Korea Advanced Institute of Science and Technology
+17086,CABLE EL SALVADOR
+17111,Covad Communications
+17184,CBEYOND COMMUNICATIONS
+17222,Mundivox do Brasil
+17379,Intelig Telecomunica
+174,Cogent/PSI
+1741,FUNET
+17411,Internet Service Provider
+17412,Woosh Wireless
+17421,Long Distance & Mobile Business Group
+17430,Great Wall Broadband Network Service
+17435,WorldxChange Communications
+17451,BIZNET ISP
+17465,Cable ISP in India
+17480,CANL
+17486,People Telecom
+17488,Hathway IP Over Cable Internet
+17494,Telecom Operator & Internet Service Provider
+17501,WorldLink Communications
+17506,UCOM
+17511,K-Opticom
+17552,True
+17557,Pakistan Telecommunication Company
+17565,Advance Datanetwork Communications
+17577,YOUNGNAM CABLE NETWORK
+17580,KRNIC
+1759,TeliaSonera Finland IP Network
+17598,YBN
+17608,ABN
+17621,China Unicom Shanghai network
+17622,China Unicom Guangzhou network
+17623,China Unicom Shenzen network
+17633,Shandong Provincial Net of CT
+17639,ComClark Network & Technology
+17640,Amnet IT Services
+17665,In2cable.com (India)
+17676,Softbank BB
+17696,KDDI Okinawa Srevice
+17697,NTT PC Communications
+17700,Japan Cablenet
+17746,Orcon Internet
+17747,ZEE INTERACTIVE MUTIMEDIA
+17754,Excellmedia
+17762,Tata Teleservices Maharashtra
+17796,Philippine Long Distance Telephone Company
+17803,BSES TeleCom
+17813,Mahanagar Telephone Nigam
+17816,China Unicom IP network China169 Guangdong province
+17839,DreamcityMedia
+17841,MIC E-GOVERNMENT
+17846,Hanaro Telecom
+17849,hanvit ginam broadcasting comm.
+17854,Tbroadjeonjubroadcast
+17857,Tbroad Nakdong Broadcasting
+17864,Hanvit I&B
+17871,Tbroad Dongnam Broadcasting
+17877,NEXG
+17899,ACN
+17917,ECL TeleCommunication
+17922,INDOSAT Internet Network Provider
+17924,SmarTone Mobile Communications
+17938,SOFTBANK TELECOM
+17954,NTT-ME
+17962,ShenZhen Topway Video Communication
+17974,PT Telekomunikasi Indonesia
+18001,Dialog Axiata
+18002,WORLDPHONE-IN
+18004,WIRELESSNET
+18072,NTT Communications
+18081,Kintetsu Cable Network
+18089,KDDI
+18101,Reliance Communications DAKC MUMBAI
+18104,Wholesale Communications Group
+18111,Netspeed Internet Communications
+18126,Chubu Telecommunications Company
+18144,Energia Communications
+18182,Sony Network Taiwan
+18207,YOU Broadband & Cable India
+18209,Beam Telecom
+18229,CtrlS Datacenters
+18252,The Communication Authoity of Thailand
+18291,Vodafone Australia Public
+18302,SKG_NW -KR SK Global
+18310,TBROAD ABC BROADCASTING
+18340,Korea University
+1835,Forskningsnettet - Danish network for Research and Education
+18359,Hutchison 3G Australia
+1836,green.ch The Internet Company
+18390,Spin Internet Service
+18396,PhilCom
+18403,The for Financing & Promoting Technology
+18412,Far EastTone Telecommunication
+18677,Columbus Networks USA
+18678,E.S.P
+18712,SureWest Kansas Operations
+18809,Cable Onda
+18812,New Wave Communications
+18881,Global Village Telecom
+1891,Scarlet Belgium
+1897,NOVIS Telecom
+19016,Westman Communications Group
+19029,New Edge Networks
+19037,Compania de Telefonas del Interior
+19108,Suddenlink Communications
+1916,Rede Nacional de Ensino e Pesquisa
+19169,Telconet
+19182,Rede Ajato
+19228,CHILE
+1930,Rede Ciencia Tecnologia e Sociedade (RCTS)
+19338,Telmex Chile Internet
+19429,Colombia
+19463,JAB Wireless
+19515,Oricom Internet
+1955,HUNGARNET
+19632,BANDA ANCHA
+196638,AS196638
+196739,AS196739
+196742,AS196742
+196767,AS196767
+196768,AS196768
+196797,AS196797
+196949,AS196949
+197023,AS197023
+197121,AS197121
+19718,MCNC
+19720,Cablevision Systems
+197225,AS197225
+197248,AS197248
+197298,AS197298
+197333,AS197333
+197605,AS197605
+19817,DSL Extreme
+2.216,Bayan Telecommunications
+2.221,TOT Public Company
+2.36,Telecom Fiji
+2.8,SAKURA Internet
+20161,TeraGo Networks
+2018,TENET-1
+20299,Newcom
+20357,Baja Broadband
+20412,KNOLOGY
+2042,JARING Communications Sdn Bhd.
+20453,Rogers AT&T Wireless
+20459,TELECOM-NAMIBIA
+20485,Company TransTeleCom
+20500,Griffin Information Systems
+20507,InterNLnet
+20525,NovLine
+20539,Radio Systems
+20542,Sanoma Television / Welho
+20569,AinaCom - IP Services and Transit Network
+20590,Donbass Electronic Communications
+20597,ELTEL.NET
+20632,PeterStar
+20676,QSC
+20689,XS4ALL Internet
+20764,Rascom
+20776,Outremer Telecom
+20797,Interneta Pasaule SIA
+20804,EXATEL
+20806,InfoTeCS Taganrog Telecom
+20807,Credolink ISP
+20811,Brennercom
+20825,Unitymedia NRW
+20845,DIGI
+20852,AtlantTelecom
+20860,Iomart
+20870,Caucasus - Transtelekom
+20875,HT Mostar
+20876,EVRO.NET
+20880,TV-cable networks
+20884,Telefonica o2 Czech Republic
+209,Qwest Communications Company
+20910,SIA Baltkom TV SIA
+20922,DunaWeb
+20931,PPO-Yhtiot
+20936,Deutsche Telekom
+20959,Telecom Italia
+20960,TK Telekom
+20962,Ote (Hellenic Telecommunications Organisation)
+20963,Vodafone
+20985,ArtX
+21003,GPTC
+21016,Telecentrs Internet Service
+21021,Multimedia Polska
+21042,Gulfsat
+21050,Fast Telecommunications Company
+21052,Cenara
+2107,ARNES
+21075,DATAGROUP
+2108,Croatian Academic and Research Network
+2110,BT Ireland Backbone
+21107,BLIC.NET
+21127,Zap-SibTranstelecom
+2116,Ventelo
+21166,SatGate
+2118,NPO Relcom
+21183,ABCom Albania
+2119,Telenor Norge
+21211,Penkiu kontinentu komunikaciju centras
+21220,Telemobil
+21250,Tyfon Svenska - Sweden
+21277,Newroz Telecom
+21284,Vivodi Telecommunications
+21299,ORBITA-PLUS
+21309,ACANTHO
+21310,ISP Satellite
+21314,Ziggo
+21327,Hutchison 3G UK and Ireland Core
+21332,NTC (New Telephone Company)
+21334,VODAFONE-HU Vodafone Hungary
+21351,Mediaserv
+21365,IMEXTELECOM
+21366,Kymen Puhelin Net
+21412,UAB Kabeliniu rysiu tinklai
+21415,Internet Group
+21442,Megapolis-Telecom
+21453,Flex
+21479,The branch Rostovelectrosviaz of Southern Telecommunications Company
+21480,WestBalt Telecom
+21483,Vimpelcom
+21497,Ukrainian Mobile Communications
+2150,California State University Network
+21502,NUMERICABLE
+21565,HTC Communications
+21688,GMP Cable TV
+21766,BEN LOMAND RURAL TELEPHONE COOPERATIVE
+21804,Access Communications -operative
+21826,Internet Cable Plus C. A.
+21864,Bend Cable Communications
+22026,tw telecom
+22085,Telet
+22349,DCS
+22351,Intelsat Global BGP Routing Policy
+22368,E.S.P.
+22394,Cellco Partnership DBA Verizon Wireless
+224,UNINETT
+22561,Digital Teleport
+22566,Maxcom Telecomunicaciones
+22584,Ntelos
+22646,Hargray Communications Group
+22689,Internet By Sercomtel
+22709,North State Telephone
+22743,IS
+22759,Wave Broadband
+22799,Delta Cable Communications
+22833,CTE
+22995,Barrett Xplore
+23100,MetroCast Communications of Connecticut
+23106,Empresa de Infovias
+23184,PERSONA COMMUNICATIONS
+23201,Telecel
+23215,MegaPath Networks
+23292,Broadstripe
+23473,Distributed Management Information Systems
+23487,CONECEL
+23563,Tbroad Suwon Broadcating Corporati
+23577,Korea Telecom
+23578,Tbroad Namdong broadcasting
+23584,PUSAN CABLE TV SYSTEM
+23655,Snap Internet
+23674,Micronet Broadband
+23682,Broadband Pacenet India
+23693,PT. Telekomunikasi Selular
+23700,PT. Broadband Multimedia
+23702,ispONE
+23752,Nepal Telecommunications
+23772,M/s Ortel Communications
+23860,Alliance Broadband Services
+23870,6 Community Center
+23871,Australia Internet Solutions
+23888,National Telecommunication HQ
+23889,MAURITIUS-TELECOM-AS-AP
+239,University of Toronto
+23944,SKYBroadband SKYCable
+23966,LINKdotNET Telecom
+23974,Ministry of education
+24016,Focus Infocom
+24059,China Mobile communications
+24086,Electric Telecommunication Company
+24105,Unwired Group
+24106,DMPI
+24158,Taiwan Mobile
+24183,DTS
+24186,RailTel of India
+24193,Sify Service Provider India
+24203,PT Excelcomindo Pratama (Network Access Provider)
+24389,GrameenPhone
+24441,CityLink
+24554,Fivenetwork Solution India Internet
+24560,Bharti Airtel
+24589,Telenet SIA
+24608,H3G
+24651,Balticom
+24665,Yuzhno-Uralskaya Telefonnaya Companiya
+24689,Rosintel Network
+24697,Saturn ISP
+24698,Optimus Portugal
+24722,Babilon-T
+24739,Severen-Telecom
+24751,Multi.fi Finland
+24757,EthioNet
+24810,Teleset
+24822,OPTICON Telekommunikacios Halozati Szolgaltato
+24827,Belinfonet
+24835,RAYA
+24841,Supernews
+24852,VINITA Internet Services
+24863,LINKdotNET
+24866,Synterra
+24877,Init
+24881,Interphone
+2491,Rogers Cable Communications
+24915,Teleunit
+24921,Latvian Mobile Telephone
+24945,Vinteleport
+24955,Ufanet
+24962,Telesystems of Ukraine
+24964,EVO-LTD
+2497,Internet Initiative Japan
+25002,AEMCOM multicommunication company
+25019,SaudiNet
+25036,TERMSnet
+25041,Brightview Internet Services
+25086,COMSTAR-Regions
+2510,FUJITSU
+25100,MIPT-telecom.
+25124,DATAK Internet Engineering
+25132,Relcom Podoliya ISP
+25133,McLaut ISP Cherkassy Ukraine
+25135,VODAFONE_UK_ASN Vodafone UK Packet Backbone Network
+25144,Telekom Srpske
+25159,MegaFon-Moscow
+25169,Telenor Sverige
+2518,NEC BIGLOBE
+2519,VECTANT
+25190,UAB Kauno Interneto Sistemos
+25229,Kyivski Telekomunikatsiyni Merezhi
+25233,Awalnet
+25248,Ceske Radiokomunikace
+25255,Hutchison 3G Austria
+2527,So-net Entertainment
+2529,Cable & Wireless Worldwide
+25310,Cable and Wireless Access
+25311,FASTLINK
+25346,Tiscali UK
+25374,ESCOM
+25385,Belcom
+25388,Stream Group
+25406,SPLIUS
+25408,West Call carrier services ISP
+25441,Imagine Group
+25454,Orange Moldova Fix Network
+2547,Budapest University of Technology and Economics
+25472,TELLAS Telecommunication Services
+25478,iHome
+25490,Southern Telecommunications Company
+25496,ZSR ZT Bratislava
+25510,ATRI-COM
+25512,CD-Telematika
+25513,Moscow city telephone network
+25521,ZAT Industrial Media Network
+25543,FasoNet
+2563,Seoul National University
+25636,ONTel
+25827,SOGETEL
+2586,Elisa Eesti
+2588,LATNET SERVISS
+25994,NPG Cable
+2605,CESNET
+2607,Slovak Academic Network
+2608,The JANET IP Service
+2609,Tunisia BackBone
+2611,BELNET
+26127,Frontier Communications of America
+2614,Agentia pentru Administrarea Retelei de Informatica pentru Educatie si Cercetare
+26198,3Men@Work Integrated Networks
+2634,ALLTEL
+26599,Telesp Celular
+26611,COMCEL
+26615,Tim Celular
+26827,EPB Telecom
+271,BCnet
+2711,Rock Hill Telephone Company
+27364,Armstrong Cable Services
+27589,MOJOHOST
+2764,AAPT
+27665,Columbus Communications Trinidad
+27680,MOVIL DE CHILE
+27699,DE SAO PAULO - TELESP
+27724,Nelson Quintas Telecom. do Brasil
+27734,New Technologies Group
+27738,Ecuadortelecom
+27747,Telecentro
+27759,HAITI
+27775,Telecommunicationcompany Suriname - TeleSur
+27789,GREENDOT
+27831,Colombia Móvil
+27833,BVNET
+27884,CABLECOLOR
+27921,Telefonica Moviles Colombia
+27925,Entel PCS Telecomunicaciones
+27978,Telmex Servicios Empresariales
+2819,GTS NOVERA (GTS CZ)
+28202,AS28202
+28220,AS28220
+28270,AS28270
+28347,AS28347
+2847,LITNET
+28509,Cablemas Telecomunicaciones
+28513,Uninet
+28530,Mexico Red de Telecomunicaciones
+28548,Cablevision
+2856,BTnet UK Regional network
+28571,Universidade de Sao Paulo - USP
+28573,Servicos de Comunicao
+286,KPN Internet Backbone
+2860,Novis Telecom
+28615,Televisao Cidade
+28652,Telecomunicações Nordeste
+28665,PredialNet Provedor de Internet
+28679,UAB Mikrovisatos TV
+28702,Delta Telecom
+28703,Ural-Intercard
+28708,Orange France
+28716,Retelit
+28725,Eurotel Praha
+2873,UTV Internet
+28745,Southern Urals TransTelecom Regional Office of TransTelecom
+28753,Leaseweb Germany (previously netdirekt e. K.)
+28769,Closed SibTransTelecom
+2878,Rostelecom Ulyanovsk branch
+28787,Baktelekom
+28802,Sochi
+28812,BashInformSvyaz Company
+28832,MultiKabelnye Seti Chelyabinska
+28840,Tattelecom.ru/Tattelecom
+28843,DauTKom TV
+28847,se.teknikpark
+28885,OmanTel NAP
+28890,INSYS
+28898,Evrotur Sat TV
+28904,SkyNet
+28908,Telecom3 Networks
+28909,TVSAT NET
+28917,TRC FIORD
+28923,KCOM Group
+28926,Telenet
+28968,EUT
+28982,E-WRO
+2900,Arizona Tri University Network
+29007,Petrotel
+29072,RDTC ISP at Novokuznetsk city
+29073,AS29073
+29084,Comnet Bulgaria
+29091,IPNXng
+29107,VAT 'AK SATER
+29113,Sloane Park Property Trust
+29119,ServiHosting Networks
+29124,ISP SU29-TELECOM
+29180,O2 Online (UK)
+29194,Television Radio Company TBT
+29208,Dial Telecom
+29225,TAIF-TELCOM
+29247,Cosmote Mobile Telecommunications
+29256,Syrian Telecommunications Establishment
+29276,Mobitel
+29278,Deninet
+29286,Skylogic Italia
+29314,Vectra Technologie
+29319,Informational-measuring systems
+29328,TMOBILEUK
+29357,WATANIYA TELECOM
+29448,Optilink
+29455,Moscow Telecommunication (COMCOR)
+29465,VGC Communication
+29485,Amis Telekom
+29492,Eidsiva bredband
+29497,Kuban-GSM
+29511,FOP Kryvosheenko Vitalij Oleksandrovitch
+29518,Bredband2
+29535,Telekomunikacja Polska
+29542,ELRO Erhverv
+29553,Virtual Line
+29556,Variant6 - PA Space
+29562,Kabel Baden-Wuerttemberg
+29571,CITelecom
+29580,Spectrum Net Broadband Services
+29582,SATCOM - Pleven
+29587,schedom vof
+29600,Latvian national Energy company
+29614,GHANATEL
+29625,Elekta
+29649,LIMES Internet Communication
+29687,Geodim
+29695,Altibox
+29737,WideOpenWest Finance
+29933,Off Campus Telecommunications
+29974,Wightman Telecom
+29975,VODACOM-ZA
+3.1034,Slovak Telecom
+3.67,Ural WES
+3.725,Electro-com
+3.736,Extel
+30036,Mediacom Communications
+30371,nLayer Communications
+30404,Advanced Cable Communications
+30619,TDM
+30689,FLOW
+30764,PODA
+30779,TRK (noc@cabletv.dp.ua)
+30781,Jaguar Network
+30784,ISKRATELECOM
+30799,Internetia
+30822,Enterprise Mageal
+30833,Authonomous System for Technology & Networks
+30836,23VNET
+30838,PPMUE TELPOL
+30851,Slaska Grupa Multimedialna - Infrastruktura
+30854,SLL PBCMC
+30863,RCS & RDS
+30868,AKADO-Ekaterinburg
+30881,TensorTelecom Company
+30886,PP KOM i TEX
+30890,EUROLAN SOLUTIONS
+30922,Sibel Telecom
+30923,Mlodziezowa Spoldzielnia Mieszkaniowa
+30950,BKK Fiber
+30955,Ukrainian High Technologies
+30975,Telewizja Kablowa Koszalin
+30985,IKATELNET
+30990,ADJIB
+31028,Novoe Kabelnoe Television
+31036,New Telesystems - TV
+31102,TV Adler-Trading
+31103,Keyweb
+31117,Energotel
+31127,Satro
+31133,MegaFon
+31148,FreeNet ISP
+31195,Far East Branch of MegaFon
+31200,Novotelecom
+31204,JV Sun Communications
+31205,Siberia branch of MegaFon
+31208,MegaFon Network
+31214,TIS-DIALOG
+31219,Menthanet
+31242,TKP is 3S.pl network operator.
+31246,SMART Comp.
+31250,Online Direct
+31252,StarNet Moldova
+31255,Multiplay Polska
+31257,Orion telecom
+31272,ISP WildPark
+31290,Daisy Wholesale UK Network
+31304,Espol
+31334,Kabel Deutschland Breitband Service
+31343,Intertelecom
+31364,TTK-INTELBI
+31376,Smart Telecom
+31423,Promax CATV Operator
+31452,MTC-Vodafone Bahrain
+31499,YCC
+31514,INFOLINE
+31549,Aria Rasana Tadbir
+31558,ZhelGorTeleKom
+31585,Columbia-Telecom
+31605,Canal S
+31608,Gawex Media
+31615,T-mobile Netherlands
+31661,ComX Networks
+31679,Slovanet
+31724,Svyazist
+31725,ISP Shtorm
+31939,DirecPath
+3212,TRIERA
+3215,France Telecom - Orange
+3225,Gulfnet Kuwait
+3226,Communication Company MARK-ITT
+32277,Thunder Bay Telephone
+3228,Tiscali Italia
+3238,Alands Datakommunikation
+3239,Uralsvyazinform
+3243,PT Comunicacoes
+32448,MetroCast Cablevision of New Hampshire
+32475,SingleHop
+3249,Elion Enterprises
+3255,Ukrainian Academic and Research Network
+3257,Tinet
+32580,Yak Communications (Canada)
+3261,Donbass Network
+3267,State Institute of Information Technologies and
+3292,TDC Data Networks
+3301,TeliaNet Sweden
+3302,Infracom Network Application
+3303,Swisscom (Switzerland)
+3308,TeliaNet Denmark
+3313,BT Italia
+33139,Canaca-com
+33165,Missouri Network Alliance
+3329,Hellas OnLine Electronic Communications
+3336,Elisa
+3340,GTS Hungary
+3352,TELEFONICA DE ESPANA
+33576,Digicel
+33588,Bresnan Communications
+33762,WBSMOBILE
+33770,KDN
+33771,SAFARICOM-LIMITED
+33774,DJAWEB
+33776,STARCOMMS
+33796,BoligNet-Aarhus Network
+33863,Aster Spolka
+33885,Ownit Broadband
+33894,RITC
+33902,ORG - Closed Star Networks (ORG-CJSC5-RIPE)
+33922,UAB Nacionalinis Telekomunikaciju Tinklas
+33934,Volgograd Electro Svyaz
+33951,FORWEB
+33991,Company Skala
+33993,Elsite network
+34001,LIVAS NET
+34056,Kiev Optic Networks
+34058,Astelit
+34065,TOV Norma Plus
+3408,Open Range Communications
+34087,NTE Bredband
+34092,TVCOM
+34093,NWT Computers
+34095,NejTV
+34123,NETORN
+34139,TSI Service
+34145,TOMTEL
+34187,Renome-Service
+34188,Telekarelia
+34211,Shatl Computers
+34224,Neterra
+34226,RubiCom
+34244,Teleservice Bredband Skane
+34245,Magnet Networks
+34248,Company Velton.Telecom
+34263,Mikkelin Puhelin
+34266,Uralwestcom
+34296,MILLENI.COM
+34300,Internet-Cosmos
+34306,MOBIUS TECHNOLOGY
+34309,Link11
+34325,PROFILINE
+34337,Cable TV Elpos
+34351,Comstar Regions
+34361,LinkBG
+34364,Tatneft W.D.Shashin
+34368,Zonata - Natzkovi & Sie
+34383,TELOISE
+34397,Cyberia Riyadh
+34400,Ettihad Etisalat
+34426,Shabakah Net
+34456,Rial Com
+34525,KoBa Konrad Baranowski
+34550,Intercon
+34569,Networx-BG
+34577,Skat Cable Television
+34588,FiberNet Communication
+34594,OT - Optima Telekom
+34602,StarLink Telecom
+34606,BBBell - Telecommunication Services
+34610,RIKSNET
+3462,Data Communication Business Group
+34629,Resurs-Svyaz
+34630,AMBRA
+34661,TOV TRK Briz
+34695,E4A
+34700,Maxnet
+34703,Pokrovsky radiotelefon
+34711,DIGINET
+34718,ISP TPS - BGP TEXNOPROSISTEM
+34726,Anders Telecom
+34743,NashNet
+34754,Telnet
+34757,Siberian Networks
+34771,Megaseti
+34772,NEOTEL-MKD
+34779,T-2
+34781,Service Multimedia
+3479,Kennesaw State University
+34796,Qatar Telecom (Qtel) Q.S.C.
+34797,Egrisi
+34804,Eurotelecom
+34814,Subsidiary KTV of Teleradiocompany Dytynets
+34823,Danish Broadband
+34829,Nauka-Svyaz
+34833,Business Telecom
+34857,Telelanas ISP
+34865,VOLIA-CRIMEA
+34869,Ekaterinburg Networks
+34875,Uralsviazinform
+34896,Vostoktelecom Telephone Company
+34957,CEGETEL LA REUNION
+34975,Azimut-R
+34977,PROCONO
+34979,iNet Expert Solutions
+34984,Tellcom Iletisim Hizmetleri
+35002,SC NextGen Communications
+35018,First Mile
+35032,Tahion ISP
+35047,Abissnet sha.a. Tirana Albania
+35063,TKChopin Computer Centre
+35067,ProKK SE
+35094,Pronea
+3511,INFONET
+35132,Enivest
+35141,Megalan - Megalan Network
+35154,Teleset-Servis
+35158,Dansk Net
+35177,Svyazinform
+35182,TERABITS SIA
+35191,ASTA-NET MALDZINSKI
+35228,Avatar Broadband
+35233,Ukrainian American Joint Venture International Telecommunication Company
+35238,CONNEXIA
+35239,Balttelecom
+35244,KMS-DE_AS KMS Munich
+35249,UNITED NET
+35268,UKRAINE PROVIDER
+35271,AVIEL
+35272,Imagine Broadband
+35274,NPLAY.PL
+35311,PR-TELECOM
+35320,Eurotranstelecom
+35328,DSi data
+35357,Lira-S
+35376,TRE-FOR Bredbaand
+35378,Sat Film
+35389,KrasLan Krasnoyarsk Computer Network
+35432,WAVESPEED
+35473,Ekaterinburg(Ural) division of Mobile Telesystems
+35475,Progressive Technologies
+3549,Global Crossing
+35530,Proline TM
+35539,Infolink Technology
+35549,Metronet telekomunikacije
+35550,PiN Telecom
+35564,Link
+35566,-Telcom
+35567,DASTO semtel
+35598,InetCom
+35612,NGI
+35632,IRIS64
+35637,WAOO
+3564,PenTeleData
+35645,Infocentre
+35664,CCC Blue Telecom
+35680,Liniatel
+35706,Net at Once Sweden
+35728,Penzenskie Telecommunikatsii
+35736,ORANGE HOME UK
+35757,Ricona network
+35776,Teleos
+35804,PP SKS-Lugan
+35805,Silknet
+35810,BIG Telecom
+35815,UralComSeti
+35816,Lancom
+35819,Etihad Etisalat Company (Mobily)
+35843,Source Cable
+35911,Telebec
+3605,Guam Cablevision
+36149,Hawaiian Telcom Services Company
+36351,SoftLayer Technologies
+36423,San Juan Cable
+36522,BELL MOBILITY
+36666,GloboTech Communications
+3672,Primus Telecommunications Canada
+36727,INSIGHT COMMUNICATIONS COMPANY
+36874,CA2
+36884,MAROCCONNECT
+36907,TVCABO_ASN
+36908,VTL
+36912,ORANGECM
+36923,SWIFTNG
+36925,ASMedi
+36935,Vodafone-EG
+36937,Neotel
+36943,webafrica
+36947,FAWRI
+36954,MLTL
+36974,AFNET
+36992,ETISALAT-MISR
+36994,Vodacom-VB
+36998,SDN-MOBITEL
+37009,MTCASN
+37061,ONECOM
+37069,MOBINIL
+37081,movicel
+37127,VISAFONE
+37131,TE
+37168,CELL-C
+3758,SingNet
+376,Reseau d'informations scientifiques du Quebec (RISQ)
+3786,LG DACOM
+3790,COSTARRICENSE
+37903,eMobile
+37928,TransACT Capital Communications
+37986,Tulip Telecom
+3801,Mikrotec Internet Services
+38109,Taegu Cable Network
+38149,PT. Bakrie Telecom
+3816,TELECOMUNICACIONES ESP
+38193,Transworld Associates .)
+38205,Plot 248
+38264,National WiMAX/IMS environment
+38266,Vodafone Essar
+38275,5th Floor
+38285,Dodo Australia
+38322,Packet One Networks Sdn Bhd
+38444,Advanced Info Service PCL.
+38457,Honesty Net Solution (I)
+38484,Virgin Broadband VISP
+38547,WITRIBE PAKISTAN
+38550,TTGN
+38558,IS Pros
+38616,Worldcall Telecom
+38623,ISP/IXP IN CAMBODIA
+38657,WAWB
+38661,HCLC
+38684,CMB Daejeon Broadcasting
+38710,Worldcall Broadband
+38805,STXCitinet
+38901,EZECOM
+38917,INTERCOMTEL
+38934,Pride
+38950,MASTER
+38951,TKT
+38962,Broadcasting company Smart
+38964,ADVANTAGE TELECOM
+38976,RU-ATVC Block
+39005,MEDI@LYS
+39007,Balticum TV
+39015,Mena Broadband
+39047,Multiservice Networks
+39065,ISP SoHo.Net
+39074,Sepanta Communication Development
+39127,Uteam
+39184,ULTRANET
+39197,LOS Bynett
+39246,Liulin Net Internet Services Network
+39264,Sakha-Belkom
+39280,Ultel
+39301,Televorgu
+39308,Andishe Sabz Khazar
+39309,Edutel
+39354,megaNET network
+39375,Telekomunikacja Podlasie
+39386,Saudi Telecom Company
+39399,Opensvit (tm)
+39439,AC Systemy Komputerowe Stanislaw Bor spolka jawna
+39442,UNICO
+39463,Lan-Telecom
+39475,Yeniseytelecom
+39482,Public Sibsvyaz
+39493,Kolomna-Sviaz TV
+39501,Neda Gostar Saba Data Transfer
+39512,NKTV
+39536,POISK
+39543,TENNET TELECOM
+39554,Fullrate
+39598,TIERA
+39603,P4
+39608,Lanet Network
+39642,Syd Energi Bredbaand
+39651,Com Hem Sweden
+39660,Integrated Transport Network
+39699,SSP Yhtiot
+39706,o2 Germany
+39709,EXTREME
+39725,Digital TV
+39728,ARTA
+39735,TELECOM_MANAGEMENT Telecom Management Company
+39741,RUS.COM
+39789,Veres
+39799,Comintel
+39812,Radiotelephone
+39824,AlmaTV
+39834,Tesat Telewizja Kablowa
+39869,SITEL - Polish IP Transit Networks
+39891,3G AlJawwal
+39898,RusLan Telecom
+39906,CoProSys
+39920,Digital Transport Networks
+39927,E-Light-Telecom
+40029,Novus Entertainment
+40285,NORTHLAND CABLE TELEVISION
+40305,Wildblue Communications
+40993,TK Altair
+40995,Sibirskie Seti Novokuznetsk
+41012,The Cloud Networks
+41145,TELIX
+41164,GET Norway
+41176,Sahara Net Main NOC
+41230,Ask4
+41232,SouthSide Network
+41256,Servcom
+41268,LanTa
+41272,MOSELLE TELECOM
+41302,MART-TC
+41313,Novatel Bulgaria
+41334,MANCHE TELECOM
+4134,No.31
+41403,Stroysvyazservice
+41411,Simbirsk telecommunication systems
+41435,Private enterpriser Panchuk Evgeniy Viktorovich
+41479,Technoclub
+41496,TV SAT 2002
+41557,Meganet
+41560,UGMK-Telecom
+41563,OSTKOM SIA
+41589,SIDUS R.L.
+41592,Baykalwestcom
+41691,Summa Telecom
+41709,LDS Luganskie Domashnie Seti
+41733,Z-Telecom
+41750,Mega-Line
+41771,MultiCable Networks
+41789,Teledyne Systems
+41798,Transtelecom
+41802,Kvidex Telecom
+41822,Regional Technical Centre
+41824,Telefonica O2 Business Solutions
+41842,Media Alliance
+41854,Nlink Trade
+41887,Prolocation
+41900,Oracle Investments Group
+41920,ON
+41925,Factorial-Internet
+41950,NETLOG COMPUTER
+41957,Information Technologies
+41976,Nord-West Telecommunication and Information Company
+41997,Stellford
+42003,OGERO Telecom
+42036,GARANT-GOMEL ISP Company
+42038,VladLink
+42081,SPEEDY-NET
+42109,ADC - Armenian Datacom Company
+42145,Bryansk Svyaz-TV
+42148,Beirel Telecom
+42205,Net-TV
+42232,PARISAT
+42239,Cipher
+42248,Vida Optics TVV
+42268,Astra
+42291,Istranet
+42296,Astarta
+4230,Embratel
+42313,Telecom Albania
+42322,ZhANR
+42323,Connect
+42335,Sphere
+42336,Volia Rivne
+42347,AllTele Allmanna Svenska Telefonaktiebolaget
+42355,Bredbaand Nord I/S
+42362,Sevosetinelectrosvyaz
+42368,Lipetskie Kabelnie Seti
+42387,Svyazservice
+42411,Vereya Cable - Net space
+42420,Internet Center
+42432,Kablovska Televizija HS
+42439,Banda Ancha
+42448,Electrosvyaz of Adygheia Republic
+42504,SPD Bilopol Roman Leonidovich
+42518,Unet Communication
+42548,Karachaevo-Cherkesskelektrosvyaz
+42555,OPTICCOM- BULGARIA
+42560,Telemach Sarajevo
+42574,Novaya Sibir Plus
+42575,M2C
+42580,Cabo TV Acoreana
+42588,TeleKomSeti
+42590,Telemost
+42610,National Cable Networks
+42613,Elektro Turnsek
+42652,inexio Informationstechnologie und Telekommunikation KGaA
+42675,KAVA
+42689,Cablecom Networking
+42708,Portlane Network
+42714,Kichkas.NET
+42723,TOV Teleradiocompany 'Vektor Plus'
+42727,Global Telecommunication Systems
+42739,Hawe Telekom
+42754,Aroma Lesk
+42781,Zajil International Telecom
+42811,Herault Telecom
+42833,Telesweet ISP
+42841,Antik Computers and Communications
+42863,TMN
+42864,Giganet Internet Szolgaltato
+42893,Nord-West Link NP
+42908,MobilKom
+42925,Internet Rimon BGP1
+42945,Insit
+42959,Online Technologies
+42961,MTC GPRS
+43010,Volia Lviv
+43022,Seech-Infocom NCC
+43027,Telelet
+43075,PRONET_LV SIA PRONETS
+43103,One Telecom
+43118,East & West
+43132,Kabbalktelekom
+43148,Infocentr ISP
+43205,Bulsatcom
+43218,EuroTel
+43263,Laboratoriya Setevikh Technologiy
+43266,Ukraine
+43274,Teleradiocompany Teleos-1
+43314,DIANET
+43317,Fishnet Communications
+43318,Service Telecom
+43370,Obit Telecommunications
+43404,Fastnet
+43529,ViDaNet Cable Television Provider
+43530,Irtelcom
+43554,Cifrovye Dispetcherskie Sistemy
+43555,Firm Progress
+43557,EnergiMidt
+43561,NET1
+43593,Cabletel DOOEL Skopje
+43627,Kompiuterinis Langas
+43637,SOL
+43649,UAB Rygveda
+43660,Shupashkartrans-K
+43667,Vermont
+43679,PETRUS POLSKA
+43714,Production -operative Economic-legal laboratory
+43754,AsiaTech
+43782,DARS Telecom
+43793,TVINGO Telecom
+43826,CSIT
+43870,DANIS
+43966,IT REGION
+43970,Belgorodskie Tsifrovie Magistraly
+43998,TRK Metro
+44034,Hi3G Access
+44038,Swisscom (Schweiz)
+44056,Trytech
+44061,Zaklad Uslug Antenowych SAT-MONT-SERVICE Jacek Mruk Krzysztof Mruk
+44068,Arbital ISP
+44079,Orbita plus Mojaysk
+44087,BeST
+44176,Jarsat s.c. Jaroslaw i Elzbieta Przedwojscy
+44178,Telekom Deutschland
+44224,IPCON
+44244,Iran Cell Service and Communication Company
+44267,Irkutskenergosvyaz
+44270,TK Tor Network
+44281,Butovo Internet Club ButIC
+44347,SiNT
+44419,Vac City KabelTV
+44436,MyBox
+44466,Metrobeam Jordan
+44489,Starnet
+44507,OAO Kostroma Municipal Telephone Network
+44514,INOTEL
+44530,Ajova Network
+44552,Saratov Digital Phone Network
+44604,Svyaz-Telecom
+44677,VyatKTV
+44678,TransVostokTelecom
+44724,Octopusnet
+44727,OPTICOM
+44775,ELECTRO-COM DON
+44885,Video 2000
+44895,Antenna-Garant
+44924,PP MainStream
+44927,Telecom MPK
+44941,Astrakhan Digital Television
+44957,OPITEL
+45043,CHP Kurilov Sergey Oleksandrovich
+45051,InfoCentre
+45143,SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+45194,Syscon Infoway
+45245,banglalink an Orascom Telecom Company
+45356,IS Group
+4538,China Education and Research Network Center
+45415,Vasai Cable
+45517,Bharti Airtel Lanka
+45528,Tikona Digital Networks
+45543,SaiGon Tourist cable Televition Company
+45582,VAINAVI INDUSTIES
+45595,Pakistan Telecom Company
+45609,Bharti Airtel GPRS Service
+45629,JasTel Network International Gateway
+45664,Liberty Broadcasting Network
+45669,PMCL /LDI IP TRANSIT
+45727,Hutchison CP Telecommunications
+45754,Clear Path Networks
+45769,D-Vois Broadband
+45774,Chandra Net
+45775,Wish Net Private
+45814,3rd Floor Shaes Centre (Above RBS Bank)
+45820,Tata Teleservices ISP
+45841,P4NETWORKS-IN
+45884,RVR Infrastructure Service provider hyderabad india
+4589,Easynet Global Services
+45898,VNPT
+45904,Silver Tower (16 & 18th Floor)
+45916,Gujarat Telelik
+45920,SkyMesh
+45951,Augere Wireless Broadband Bangladesh
+4609,Companhia de Telecomunicacoes de Macau SARL
+4636,Taiwan Fixed Network
+46375,Sonic Telecom
+46475,Limestone Networks
+4648,Netgate
+4657,StarHub Internet Exchange
+4661,Pakistan Telecommuication company
+46618,Dery Telecom
+4665,Yonsei University
+4685,Asahi Net
+4691,Dream Train Internet
+47027,Seaside Communications
+4704,SANYO Information Technology Solutions
+47104,Prolink MO.ru
+47111,R2
+47118,MAN net
+47119,VL-Telecom
+47148,STARNETRANS
+47154,Canal Digital Danmark
+47155,ViaEuropa Sweden
+47156,MalNet
+47164,A Technologies
+47165,Omskie kabelnye seti
+47193,LAN-Optic
+47211,Kolpinskie Internet-Seti
+47218,SYNTERRA-UG
+47232,GRAPE SC
+47241,Ivtelecom
+47262,Hamara System Tabriz Engineering Company
+47286,OTS
+47377,MOBISTAR ENTERPRISE SERVICES
+4739,Internode
+47394,Albanian Satellite Communications
+47395,Scartel
+47398,Public Siberian phone company
+47403,Vostoktelecom
+47408,Mandarin WIMAX Sicilia
+47438,Pskovline
+4750,CS LOXINFO PUBLIC COMPANY
+47524,Turksat Uydu Haberlesme ve Kablo TV Isletme
+47531,OskolTelecom
+4755,TATA Communications formerly VSNL is Leading ISP
+47579,Pilot
+47589,Kuwait Telecommunication Company (Under Association)
+4760,PCCW
+47614,Mega-NN
+4763,TelstraClear
+4764,Wideband Networks
+47694,Didan Group
+4773,MobileOne Mobile/Internet Service Provider Singapore
+4775,Globe Telecoms
+47759,POIG
+47771,Digital Cable Television
+47794,Etihad Atheeb Telecom Company
+4780,Digital United
+47844,CSGC Group Tower Telecom
+4788,TM Net
+47926,Lutsche.net
+4795,INDOSATM2
+47951,Telecontur NET
+47954,Alfa Net Telecom
+47995,Inetera
+48000,Stream-TV
+48006,PE Dmytro Golubnichiy Volodomirovich
+4802,iiNet
+48036,NPO AIDMA
+4804,Microplex
+48043,Ozyorsk Telecom
+4808,CNCGROUP IP network China169 Beijing Province Network
+4811,China Telecom (Group)
+48124,STREAM-TV branch Tver city
+48149,Ivanteevskie telcommunicacii
+48166,Fortex
+48169,IVC-Donbass
+48176,SET
+48212,MultiCable networks of Chita
+48239,Science-Production Association Information Technologies
+48245,UNICOMPORT
+48291,ARIA
+48293,Uniontel
+48320,KETIS
+48322,COMSTAR-Regiony
+48354,Company Relant
+4837,CNCGROUP China169 Backbone
+48416,Information Network
+48452,Traffic Broadband Communications
+48466,Obyedinennaja Telekommunikacionnaya Korporaciya OTK
+4847,China Networks Inter-Exchange
+48470,MTU Kristall
+48475,Closed Oskolnet
+48481,King-Online
+48524,Interra
+4854,Netspace Online Systems
+48642,K Telecom
+48832,Linkdotnet-Jordan
+48872,NORMA
+48919,UACITY
+48957,www.network.lviv.ua
+49060,UnionLine
+49111,Commercial Information Networks
+49120,Gorset
+49136,Telecommunication networks
+49160,Torgovij Dom Asteis
+49170,Closed MultyKabelnie Seti Balashihi
+49183,Galitski Telekommunications
+49218,Nizhnetagilskie Kompyuternye Seti
+49223,Everest Broadcasting Company
+49260,Uzel-M
+49291,Interproekt
+49301,Transtelecom-DV
+49326,RUBIS
+49342,SpeedyLine
+49363,Orange Armenia
+49368,DomoLAN
+49403,AVK-Wellcom
+49455,Loqal
+49465,Private TV company Rubin-plus
+49508,KS-Telecom
+49559,Kherson Telecommunication Systems
+49583,KOM_LAN_LTD Kom lan
+49718,Nizhnevolzhskie Telecommunication Networks Real
+49776,Gorodskaya Set
+49777,ATEXS PLUS
+49779,Investpribor
+49907,LIGHT BULB NET
+49944,OZDKABEL_NET OzdKabel-Tv
+49984,Telecomunikatsiina Companiya
+50004,FO-P Gromov Evgen Viktorovich
+50009,Quartz
+50010,Omani Qatari Telecommunications Company SAOC
+50011,COMSTAR-REGIONS NIZHNIY TAGIL
+50060,Annet
+50077,Set-Telekom
+50174,Complex financial systems
+50181,KabelszatNet-2002. Musoreloszto es Kereskedelmi
+50289,WELLCOM-L
+50373,Kievconnect
+50482,Kazakhtelecom
+5056,Iowa Network Services
+50597,ScopeSky Communication and Internet
+50606,FUZ Adam Rojek
+50661,Telkab
+50710,EarthLink Communications&Internet Services
+50740,Severen-Home
+5078,Oklahoma Network for Education Enrichment and
+50810,Mobin Net Communication Company
+50923,Metroset
+51009,Company NICOS
+51034,Weacom
+51069,Dnepronet
+51116,Multiservice Cable Networks
+51351,Objedinennaja Setevaja Kompanija
+51375,VIVA Bahrain BSC Closed
+51469,Petiak System
+51515,Vega Service
+51669,Home Computer Networks
+51784,X-City
+52015,Dancer
+52262,Telefónica Celular
+53128,AS53128
+5384,Emirates Telecommunications
+5390,Online Breedband Global
+5408,Greek Research & Technology Network
+5416,Batelco
+5432,Belgacom regional
+5466,Eircom
+5513,T-Mobile Hungary
+5518,Telia Latvija SIA
+5522,OMNITEL
+5523,RM Telecom
+553,Landeshochschulnetz Baden-Wuerttemberg (BelWue)
+55430,Starhub Internet Pte
+55441,D 26/2 TTC INDUSTRIAL AREA MIDC SANPADA
+55465,TT&T
+55526,Scindia Villa
+55714,Fiberlink
+55740,TATA TELESERVICES - TATA INDICOM - CDMA DIVISION
+5578,GTS Nextra
+55831,Aircel
+55862,Wan & Lan Internet
+55879,SMARTLINK-POWAI-IN
+559,SWITCH
+5591,Mari El Net
+5602,KPNQwest Italia
+5603,Telekom Slovenije
+56055,Micro Logic Systems
+5607,BSkyB Broadband
+56089,OFFRATEL
+5615,Telfort
+5628,Slovak Telekom
+56341,ENTER
+5639,Telecommunication Services of Trinidad and Tobago
+5645,TekSavvy Solutions Toronto
+56489,FLP Bogachenko Vasyl Valentinovich
+5690,Via Computer and Communications (ViaNet)
+5713,SAIX-NET
+5760,Biddeford Internet
+5769,Videotron Telecom Ltee
+5771,Alaska Communications Systems Group
+6057,Administracion Nacional de Telecomunicaciones
+6147,Telefonica del Peru
+6181,Cincinnati Bell Telephone
+6197,BellSouth Network Solutions
+6280,Babillard Synapse
+6306,Telcel
+6315,XMission
+6325,Illinois Century Network
+6332,Telefonos del Noroeste
+6380,BellSouth.net
+6400,Compañía Dominicana de Teléfonos
+6412,KEMS
+6568,para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB
+6608,Bell Aliant Regional Communications
+6639,Cable&Wireless Cayman Islands
+6661,Entreprise des P. et T. Luxembourg
+6675,COLT Technology Services Group
+6677,Siminn hf
+6690,Web Plus
+6697,BELPAK
+6702,Science Production Company Trifle
+6706,Volny
+6712,MSP Format
+6713,IAM
+6714,ATOM
+6755,Turk Telekomunikasyon Anonim Sirketi
+6758,MONACO TELECOM
+6767,Rostov-on-Don CTS/ICOMM Node
+6785,Cybercity
+6789,Crimean Electronic Communication
+680,service G-WiN
+6805,Telefonica o2 Germany
+6821,Makedonski Telekom
+6830,UPC Broadband
+6849,UKRTELECOM
+6851,SIA IZZI
+6856,IC-VORONEZH
+6866,Cyprus Telecommunications Authority
+6871,PlusNet
+6876,TeNeT
+6983,ITC^Deltacom
+7057,Managed Network Systems
+7065,Sonoma Interconnect
+7106,Com Net
+7137,TELEMATIX/ ENITEL
+7403,Colba Net
+7418,TELEFÓNICA CHILE
+7470,ASIA INFONET
+7522,STNet
+7543,Pacific Internet (Australia)
+7545,TPG Internet
+7552,Vietel
+7562,DCC
+7565,House # 43
+7569,Australian Academic and Reasearch Network (AARNet)
+7602,Saigon Postel
+7642,Dhiraagu Internet Services
+7643,Vietnam Posts and Telecommunications (VNPT)
+7657,Vodafone NZ
+766,RedIRIS
+7679,Kyushu Telecommunication Network
+7738,Telecomunicacoes da Bahia
+7794,Golden Triangle On Line
+790,EUnet Finland
+7992,Cogeco Cable
+8014,Bahamas Telecommunications
+803,Saskatchewan Telecommunications
+8047,GENERAL COMMUNICATION
+8163,REDES
+8167,Telecomunicacoes de Santa Catarina
+8193,Uzpak Net (Country Net of Independence Republic of Uzbekistan)
+8248,Greek High-School Internet Network (backbone and access)
+8251,NFX_ZSPO FreeTel
+8267,Metropolitan Area Network
+8273,Verdo Tele
+8301,www.GIBTELE.COM
+8326,Educational Users
+8331,Cronyx Plus
+8334,2COM
+8339,Kabelsignal
+8342,RTComm.RU
+8343,Private (PrJSC) DORIS
+8345,DSI
+8346,SONATEL
+8358,GTS Hungary Tavkozlesi
+8359,Comstar-Direct
+8369,Intersvyaz-2
+8371,Business Communication Agency
+8374,Polkomtel
+8376,Jordan Data Communications Company
+8386,KOCNET
+8404,Cablecom
+8412,T-Mobile Austria
+8416,Infoline
+8420,ULAKNET
+8422,NETCOLOGNE
+8427,Maginfo
+8439,AIST
+8445,SALZBURG
+8448,Telenor Hungary Telecommunications
+8462,CORYNET
+8468,ENTANET International
+8470,Macomnet
+8473,Bahnhof
+8477,ZTS Echostar Studio Poznan Poland
+8512,SULINET
+852,Telus Advanced Communications
+8551,Bezeqint Internet Backbone
+8591,AMiS
+8615,CNT
+8632,Luxembourg Online
+8636,MAXNET
+8675,AS_TULATEL Rostelecom
+8680,Cable & Wireless Channel Island Network
+8717,Spectrum NET
+8744,starttelecom.ru
+8749,Redcom
+8764,TEO LT
+8767,M-net
+8779,KhmelnitskInfocom
+8788,Adamant
+8866,Bulgarian Telecommunication Company
+8877,PowerNet
+8926,Moldtelecom SE
+8928,Interoute Communications
+8932,iCON Communications
+8953,Orange Romania
+8970,WROCMAN-EDU educational part of WASK network
+8990,ANTENNA HUNGARIA Magyar Musorszoro es Radiohirkozlesi
+9038,Batelco Jordan
+9050,ROMTELECOM
+9051,IncoNet Data Management
+9070,ITD Network Bulgarian ISP
+9080,IPEX/GIN
+9116,012 Smile Communications Main
+9117,Cellcom Israel
+9119,Softnet
+9145,EWE TEL
+9146,BH Telecom Sarajevo
+9151,Net One
+9155,QualityNet General Trading & Contracting
+9205,SATELIT SERVIS
+9260,NSP
+9269,City Telecom (H.K.)
+9304,Hutchison Global Communications
+9316,DACOM PUBNETPLUS
+9319,CHEONGJU CABLE TV SYSTEMS
+9321,Hanyang University
+9329,Sri Lanka Telecom Internet
+9354,Community Network Center
+9365,its communications
+9374,DEODEO
+9386,Destiny
+9394,CHINA RAILWAY Internet(CRNET)
+9416,Hoshin Multimedia Center
+9457,DREAMLINE
+9471,MANA
+9497,Digital Telecommunications Philippines
+9498,BHARTI Airtel
+9506,Magix Broadband Network
+9513,HK Cable TV
+9534,Binariang Berhad
+9541,Cyber Internet Services
+9543,Westnet Internet Services
+9556,Adam Internet
+9569,SEOCHO CABLE SYSTEMS
+9583,Sify
+9600,Sony Business Solutions
+9605,NTT DoCoMo
+9609,eAccess
+9617,KANSAI MULTIMEDIA SERVICE COMPANY
+9621,Okinawa Telecommunication Network
+9644,SK Telecom.
+9658,Eastern Telecoms Phils.
+9686,SungKyunKwan University (SKKU)
+9689,Qrix
+9694,Seokyung Cable Television ..
+9697,CJ CableNet HaeundaeKijang
+9756,Cheonan Broadcast
+9762,HYUNDAI COMMUNICATIONS & NETWORK
+9768,KT
+9781,GREEN CABLE TELEVISION
+9790,CallPlus Services
+9808,Guangdong Mobile Communication
+9812,Oriental Cable Network
+9824,# ATHOMEJP CONVERTED TO ATHOMEJP FOR RPSL COMPLIANCE Technology Networks
+9829,National Internet Backbone
+9848,Enterprise Networks
+9874,StarHub Broadband
+9930,TIME DOTCOM BERHAD
+9943,Kangnam Cable TV
+9946,KCTV JEJU BROADCASTING
+9964,Korea Telecom Freetel
+9971,TBROAD Dongdaemun cable networks
+9976,Korea Cable TV NamIncheon Broadcasting.
+9981,Saero Network Service

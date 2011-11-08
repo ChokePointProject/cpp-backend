@@ -1,0 +1,49 @@
+<%= form_for(@world_measurement) do |f| %>
+  <% if @world_measurement.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@world_measurement.errors.count, "error") %> prohibited this world_measurement from being saved:</h2>
+
+      <ul>
+      <% @world_measurement.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :month %><br />
+    <%= f.date_select :month %>
+  </div>
+  <div class="field">
+    <%= f.label :DownloadThroughputSplitByClientAndByServer %><br />
+    <%= f.text_field :DownloadThroughputSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :UploadThroughputSplitByClientAndByServer %><br />
+    <%= f.text_field :UploadThroughputSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :RTTSplitByClientAndByServer %><br />
+    <%= f.text_field :RTTSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :NetLimitedSplitByClientAndByServer %><br />
+    <%= f.text_field :NetLimitedSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :ClientLimitedSplitByClientAndByServer %><br />
+    <%= f.text_field :ClientLimitedSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :WinScaleRcvdSplitByClientAndByServer %><br />
+    <%= f.text_field :WinScaleRcvdSplitByClientAndByServer %>
+  </div>
+  <div class="field">
+    <%= f.label :NumberOfClientsSplitByClientAndByServer %><br />
+    <%= f.text_field :NumberOfClientsSplitByClientAndByServer %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
