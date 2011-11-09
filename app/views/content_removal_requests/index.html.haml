@@ -1,0 +1,23 @@
+- title "Content Removal Requests"
+
+%table
+  %tr
+    %th Content removal request period
+    %th Product
+    %th Reason
+    %th Court orders
+    %th Executive
+    %th Items
+  - for content_removal_request in @content_removal_requests
+    %tr
+      %td= content_removal_request.content_removal_request_period_id
+      %td= content_removal_request.product_id
+      %td= content_removal_request.reason_id
+      %td= content_removal_request.court_orders
+      %td= content_removal_request.executive
+      %td= content_removal_request.items
+      %td= link_to 'Show', content_removal_request
+      %td= link_to 'Edit', edit_content_removal_request_path(content_removal_request)
+      %td= link_to 'Destroy', content_removal_request, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Content Removal Request", new_content_removal_request_path

@@ -1,4 +1,5 @@
 CppBackend::Application.routes.draw do
+  resources :content_removal_requests
 
   resources :countries
 
