@@ -2,11 +2,37 @@ class CityMeasurementsController < ApplicationController
   # GET /city_measurements
   # GET /city_measurements.json
   def index
+    if params["id"].nil?
+      @city_measurements = CityMeasurement.all
+    else
+      begin 
+        @city_measurements = CityMeasurement.where(:city_map_id => params["id"])
+      rescue 
+        @city_measurements = []
+      end
+    end
+
+    # Find suspicious data by computing the derivatives over time and checking for rapid drops
+    droplimit = -1.0/2
+    if @city_measurements.size > 0 
+      @city_measurements[0].is_suspicious = false
+
+        (1..@city_measurements.size-1).each do |i|
+          @city_measurements[i].is_suspicious = false
+          begin 
+            if ((@city_measurements[i].NumberOfClientsSplitByClientAndByServer - @city_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
+              @city_measurements[i].is_suspicious = true
+            end
+          rescue 
+          end
+        end 
+    end
+
     @city_measurements = CityMeasurement.all
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @city_measurements }
+      format.json { render json: @city_measurements.to_json(:only => [:month, :NumberOfClientsSplitByClientAndByServer], :methods => :suspicious) }
     end
   end
 
