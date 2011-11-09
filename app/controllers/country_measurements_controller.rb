@@ -3,7 +3,8 @@ class CountryMeasurementsController < ApplicationController
   # GET /country_measurements.json
   def index
     if params["country"].nil?
-      @country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).all
+      #@country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).all
+      @country_measurements = CountryMeasurement.all
     else
       country = CountryMap.find_by_name(params["country"])
       if country.nil?
