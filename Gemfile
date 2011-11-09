@@ -16,9 +16,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'haml'
 gem 'jquery-rails'
-gem 'nifty-generators'
 gem 'execjs' 
 gem 'therubyracer'
 gem 'ruby-debug19'
@@ -32,8 +30,11 @@ gem 'ruby-debug19'
 # Deploy with Capistrano
 # gem 'capistrano'
 
-# To use debugger
-# gem 'ruby-debug19', :require => 'ruby-debug'
+group :development do
+  # To use debugger
+  gem 'ruby-debug19', :require => 'ruby-debug'
+  gem 'nifty-generators'
+end
 
 group :test do
   # Pretty printed test output
