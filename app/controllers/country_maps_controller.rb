@@ -6,7 +6,7 @@ class CountryMapsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @country_maps }
+      format.json { render json: @country_maps, :methods => :country_code }
     end
   end
 
