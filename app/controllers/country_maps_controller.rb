@@ -2,7 +2,7 @@ class CountryMapsController < ApplicationController
   # GET /country_maps
   # GET /country_maps.json
   def index
-    @country_maps = CountryMap.all
+    @country_maps = CountryMap.select([:name]).all
 
     respond_to do |format|
       format.html # index.html.erb
