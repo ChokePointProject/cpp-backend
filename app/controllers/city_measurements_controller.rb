@@ -30,7 +30,7 @@ class CityMeasurementsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @city_measurements.to_json(:only => [:month, :NumberOfClientsSplitByClientAndByServer], :methods => :suspicious) }
+      format.json { render json: @city_measurements.to_json(:only => [:month, :NumberOfClientsSplitByClientAndByServer], :methods => [:suspicious, :country_code]) }
     end
   end
 
