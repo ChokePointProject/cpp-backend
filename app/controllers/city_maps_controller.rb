@@ -6,7 +6,7 @@ class CityMapsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @city_maps, :only => [:name, :latitude, :longitude, :city] }
+      format.json { render json: @city_maps, :only => [:name, :latitude, :longitude, :city], :methods => :country_code }
     end
   end
 

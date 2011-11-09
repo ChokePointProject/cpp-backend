@@ -1,6 +1,5 @@
 class CityMeasurement < ActiveRecord::Base
   attr_accessor :is_suspicious
-  attr_accessor :country_id
 
   belongs_to :city_map
 
