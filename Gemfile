@@ -19,7 +19,7 @@ end
 gem 'jquery-rails'
 gem 'execjs' 
 gem 'therubyracer'
-gem 'activerecord-postgresql-adapter'
+gem 'pg'
 #gem 'ruby-debug19'
 
 # To use ActiveModel has_secure_password
