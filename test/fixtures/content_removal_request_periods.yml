@@ -1,0 +1,9 @@
+one:
+  period_start: 2011-11-09
+  period_end: 2011-11-09
+  country_id: 1
+
+two:
+  period_start: 2011-11-09
+  period_end: 2011-11-09
+  country_id: 1
