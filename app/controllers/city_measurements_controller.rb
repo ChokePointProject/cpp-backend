@@ -2,11 +2,11 @@ class CityMeasurementsController < ApplicationController
   # GET /city_measurements
   # GET /city_measurements.json
   def index
-    if params["id"].nil?
-      @city_measurements = CityMeasurement.all
+    if params["city"].nil?
+      @city_measurements = []
     else
       begin 
-        @city_measurements = CityMeasurement.where(:city_map_id => params["id"])
+        @city_measurements = CityMeasurement.where(:city => params["city"])
       rescue 
         @city_measurements = []
       end
@@ -27,8 +27,6 @@ class CityMeasurementsController < ApplicationController
           end
         end 
     end
-
-    @city_measurements = CityMeasurement.all
 
     respond_to do |format|
       format.html # index.html.erb
