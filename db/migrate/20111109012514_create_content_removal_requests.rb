@@ -4,7 +4,7 @@ class CreateContentRemovalRequests < ActiveRecord::Migration
       t.integer :content_removal_request_period_id
       t.integer :product_id
       t.integer :reason_id
-      t.integer :courtOrders
+      t.integer :court_orders
       t.integer :executive
       t.integer :items
       t.timestamps

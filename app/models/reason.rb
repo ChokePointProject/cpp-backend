@@ -1,5 +1,5 @@
 class Reason < ActiveRecord::Base
-  belongs_to :content_removal_request
+  has_many :content_removal_requests
 
   attr_accessible :name
 end

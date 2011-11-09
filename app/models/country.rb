@@ -1,6 +1,8 @@
 class Country < ActiveRecord::Base
   belongs_to :continent
-  belongs_to :content_removal_request_period
+
+  has_many :content_removal_request_periods
+  has_many :content_removal_requests, :through => :content_removal_request_periods
 
   validates_presence_of :code, :name
   validates_uniqueness_of :code
