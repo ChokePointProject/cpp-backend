@@ -1,0 +1,35 @@
+one:
+  continent_id: 1
+  code: MyString
+  name: MyString
+  isoNumeric: 1
+  isoAlpha3: MyString
+  fipsCode: MyString
+  capital: MyString
+  areaInSqKm: 1.5
+  population: 1
+  currencyCode: MyString
+  languages: MyString
+  geonameId: 1
+  bBoxWest: 1.5
+  bBoxNorth: 1.5
+  bBoxEast: 1.5
+  bBoxSouth: 1.5
+
+two:
+  continent_id: 1
+  code: MyString
+  name: MyString
+  isoNumeric: 1
+  isoAlpha3: MyString
+  fipsCode: MyString
+  capital: MyString
+  areaInSqKm: 1.5
+  population: 1
+  currencyCode: MyString
+  languages: MyString
+  geonameId: 1
+  bBoxWest: 1.5
+  bBoxNorth: 1.5
+  bBoxEast: 1.5
+  bBoxSouth: 1.5

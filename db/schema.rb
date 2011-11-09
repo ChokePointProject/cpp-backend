@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111108223211) do
+ActiveRecord::Schema.define(:version => 20111108232726) do
 
   create_table "city_maps", :force => true do |t|
     t.string   "city"
@@ -32,6 +32,34 @@ ActiveRecord::Schema.define(:version => 20111108223211) do
     t.float    "ClientLimitedSplitByClientAndByServer"
     t.float    "WinScaleRcvdSplitByClientAndByServer"
     t.float    "NumberOfClientsSplitByClientAndByServer"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "continents", :force => true do |t|
+    t.string   "code"
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "countries", :force => true do |t|
+    t.integer  "continent_id"
+    t.string   "code"
+    t.string   "name"
+    t.integer  "isoNumeric"
+    t.string   "isoAlpha3"
+    t.string   "fipsCode"
+    t.string   "capital"
+    t.float    "areaInSqKm"
+    t.integer  "population"
+    t.string   "currencyCode"
+    t.string   "languages"
+    t.integer  "geonameId"
+    t.float    "bBoxWest"
+    t.float    "bBoxNorth"
+    t.float    "bBoxEast"
+    t.float    "bBoxSouth"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
