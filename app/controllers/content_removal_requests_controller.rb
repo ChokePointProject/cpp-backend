@@ -11,6 +11,12 @@ class ContentRemovalRequestsController < ApplicationController
     if params[:before]
       @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_end < ?", params[:before])
     end
+    if params[:product_id]
+      @content_removal_requests = @content_removal_requests.where('product_id' => params[:product_id])
+    end
+    if params[:reason_id]
+      @content_removal_requests = @content_removal_requests.where('reason_id' => params[:reason_id])
+    end
 
     respond_to do |format|
       format.html
