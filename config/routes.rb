@@ -1,9 +1,7 @@
 CppBackend::Application.routes.draw do
   resources :city_maps
 
-  resources :country_maps do
-    resources :country_measurements 
-  end
+  resources :country_maps 
 
   resources :city_measurements
 
