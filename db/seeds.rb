@@ -36,5 +36,6 @@ h.each do |c|
     :bBoxEast     => c['bBoxEast'],
     :bBoxSouth    => c['bBoxSouth']
   )
+
 end
 
