@@ -49,7 +49,7 @@ ActiveRecord::Schema.define(:version => 20111109012514) do
     t.integer  "content_removal_request_period_id"
     t.integer  "product_id"
     t.integer  "reason_id"
-    t.integer  "courtOrders"
+    t.integer  "court_orders"
     t.integer  "executive"
     t.integer  "items"
     t.datetime "created_at"

@@ -2,7 +2,7 @@ one:
   content_removal_request_period_id: 1
   product_id: 1
   reason_id: 1
-  courtOrders: 1
+  court_orders: 1
   executive: 1
   items: 1
 
@@ -10,6 +10,6 @@ two:
   content_removal_request_period_id: 1
   product_id: 1
   reason_id: 1
-  courtOrders: 1
+  court_orders: 1
   executive: 1
   items: 1
