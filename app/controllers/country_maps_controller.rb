@@ -10,6 +10,15 @@ class CountryMapsController < ApplicationController
     end
   end
 
+#  def latest
+#    @country_maps = CountryMap.select([:name, :longitude, :latitude]).all
+#
+#    respond_to do |format|
+#      format.html # index.html.erb
+#      format.json { render json: @country_maps }
+#    end
+#  end
+
   # GET /country_maps/1
   # GET /country_maps/1.json
   def show

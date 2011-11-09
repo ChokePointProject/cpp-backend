@@ -9,9 +9,24 @@ class CountryMeasurementsController < ApplicationController
       if country.nil?
         @country_measurements = []
       else 
-        @country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).where(:country => country.id)
+        # @country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).where(:country => country.id)
+        @country_measurements = CountryMeasurement.where(:country => country.id)
       end
     end
+
+    # Find suspicious data by computing the derivatives over time and checking for rapid drops
+    droplimit = -1.0
+    (0..@country_measurements.size-1).each do |i|
+      @country_measurements[i].suspicious = false
+      if i>1
+        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
+          @country_measurements[i].suspicious = true
+        end
+      end
+    end 
+
+#    require 'ruby-debug'
+#    debugger
 
     respond_to do |format|
       format.html # index.html.erb
