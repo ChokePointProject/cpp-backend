@@ -1,0 +1,12 @@
+= form_for @continent do |f|
+  = f.error_messages
+  %p
+    = f.label :code
+    %br
+    = f.text_field :code
+  %p
+    = f.label :name
+    %br
+    = f.text_field :name
+  %p
+    = f.submit

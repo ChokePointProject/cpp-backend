@@ -1,0 +1,15 @@
+- title "Continent"
+
+%p
+  %strong Code:
+  = @continent.code
+%p
+  %strong Name:
+  = @continent.name
+
+%p
+  = link_to "Edit", edit_continent_path(@continent)
+  |
+  = link_to "Destroy", @continent, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", continents_path

@@ -1,0 +1,57 @@
+- title "Country"
+
+%p
+  %strong Continent:
+  = @country.continent_id
+%p
+  %strong Code:
+  = @country.code
+%p
+  %strong Name:
+  = @country.name
+%p
+  %strong Isonumeric:
+  = @country.isoNumeric
+%p
+  %strong Isoalpha3:
+  = @country.isoAlpha3
+%p
+  %strong Fipscode:
+  = @country.fipsCode
+%p
+  %strong Capital:
+  = @country.capital
+%p
+  %strong Areainsqkm:
+  = @country.areaInSqKm
+%p
+  %strong Population:
+  = @country.population
+%p
+  %strong Currencycode:
+  = @country.currencyCode
+%p
+  %strong Languages:
+  = @country.languages
+%p
+  %strong Geonameid:
+  = @country.geonameId
+%p
+  %strong Bboxwest:
+  = @country.bBoxWest
+%p
+  %strong Bboxnorth:
+  = @country.bBoxNorth
+%p
+  %strong Bboxeast:
+  = @country.bBoxEast
+%p
+  %strong Bboxsouth:
+  = @country.bBoxSouth
+
+%p
+  = link_to "Edit", edit_country_path(@country)
+  |
+  = link_to "Destroy", @country, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", countries_path

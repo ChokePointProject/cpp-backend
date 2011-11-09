@@ -1,0 +1,43 @@
+- title "Countries"
+
+%table
+  %tr
+    %th Continent
+    %th Code
+    %th Name
+    %th Isonumeric
+    %th Isoalpha3
+    %th Fipscode
+    %th Capital
+    %th Areainsqkm
+    %th Population
+    %th Currencycode
+    %th Languages
+    %th Geonameid
+    %th Bboxwest
+    %th Bboxnorth
+    %th Bboxeast
+    %th Bboxsouth
+  - for country in @countries
+    %tr
+      %td= country.continent_id
+      %td= country.code
+      %td= country.name
+      %td= country.isoNumeric
+      %td= country.isoAlpha3
+      %td= country.fipsCode
+      %td= country.capital
+      %td= country.areaInSqKm
+      %td= country.population
+      %td= country.currencyCode
+      %td= country.languages
+      %td= country.geonameId
+      %td= country.bBoxWest
+      %td= country.bBoxNorth
+      %td= country.bBoxEast
+      %td= country.bBoxSouth
+      %td= link_to 'Show', country
+      %td= link_to 'Edit', edit_country_path(country)
+      %td= link_to 'Destroy', country, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Country", new_country_path

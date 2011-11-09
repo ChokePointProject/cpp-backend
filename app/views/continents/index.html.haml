@@ -1,0 +1,15 @@
+- title "Continents"
+
+%table
+  %tr
+    %th Code
+    %th Name
+  - for continent in @continents
+    %tr
+      %td= continent.code
+      %td= continent.name
+      %td= link_to 'Show', continent
+      %td= link_to 'Edit', edit_continent_path(continent)
+      %td= link_to 'Destroy', continent, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Continent", new_continent_path
