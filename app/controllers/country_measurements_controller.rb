@@ -16,22 +16,22 @@ class CountryMeasurementsController < ApplicationController
     end
 
     # Find suspicious data by computing the derivatives over time and checking for rapid drops
-    droplimit = -1.0
-    (0..@country_measurements.size-1).each do |i|
-      @country_measurements[i].suspicious = false
-      if i>1
-        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
-          @country_measurements[i].suspicious = true
-        end
-      end
-    end 
+    droplimit = -1.0/2
+    if @country_measurements.size > 0 
+      @country_measurements[0].suspicious = false
 
-#    require 'ruby-debug'
-#    debugger
+      (1..@country_measurements.size-1).each do |i|
+        @country_measurements[i].suspicious = false
+
+#        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
+#          @country_measurements[i].suspicious = true
+#        end
+      end 
+    end
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @country_measurements }
+      format.json { render json: @country_measurements.to_json(:only => [:month, :NumberOfClientsSplitByClientAndByServer], :methods => :suspicious?) }
     end
   end
 
