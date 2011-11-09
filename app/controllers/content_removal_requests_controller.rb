@@ -5,6 +5,12 @@ class ContentRemovalRequestsController < ApplicationController
     if params[:country_code]
       @content_removal_requests = @content_removal_requests.where('content_removal_request_periods.country_id' => Country.find_by_code(params[:country_code]).id)
     end
+    if params[:after]
+      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_start > ?", params[:after])
+    end
+    if params[:before]
+      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_end < ?", params[:before])
+    end
 
     respond_to do |format|
       format.html
