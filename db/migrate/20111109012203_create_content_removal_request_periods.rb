@@ -4,6 +4,7 @@ class CreateContentRemovalRequestPeriods < ActiveRecord::Migration
       t.date :period_start
       t.date :period_end
       t.integer :country_id
+      t.float :percentage_complied
       t.timestamps
     end
   end

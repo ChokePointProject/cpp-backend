@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111108232726) do
+ActiveRecord::Schema.define(:version => 20111109012514) do
 
   create_table "city_maps", :force => true do |t|
     t.string   "city"
@@ -32,6 +32,26 @@ ActiveRecord::Schema.define(:version => 20111108232726) do
     t.float    "ClientLimitedSplitByClientAndByServer"
     t.float    "WinScaleRcvdSplitByClientAndByServer"
     t.float    "NumberOfClientsSplitByClientAndByServer"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "content_removal_request_periods", :force => true do |t|
+    t.date     "period_start"
+    t.date     "period_end"
+    t.integer  "country_id"
+    t.float    "percentage_complied"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "content_removal_requests", :force => true do |t|
+    t.integer  "content_removal_request_period_id"
+    t.integer  "product_id"
+    t.integer  "reason_id"
+    t.integer  "courtOrders"
+    t.integer  "executive"
+    t.integer  "items"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -82,6 +102,18 @@ ActiveRecord::Schema.define(:version => 20111108232726) do
     t.float    "ClientLimitedSplitByClientAndByServer"
     t.float    "WinScaleRcvdSplitByClientAndByServer"
     t.float    "NumberOfClientsSplitByClientAndByServer"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "products", :force => true do |t|
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "reasons", :force => true do |t|
+    t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
