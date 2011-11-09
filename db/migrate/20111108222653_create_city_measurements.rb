@@ -1,7 +1,6 @@
 class CreateCityMeasurements < ActiveRecord::Migration
   def change
     create_table :city_measurements do |t|
-      t.integer :city_map_id
       t.string :city
       t.date :month
       t.float :DownloadThroughputSplitByClientAndByServer
