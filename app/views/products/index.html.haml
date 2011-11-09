@@ -1,0 +1,13 @@
+- title "Products"
+
+%table
+  %tr
+    %th Name
+  - for product in @products
+    %tr
+      %td= product.name
+      %td= link_to 'Show', product
+      %td= link_to 'Edit', edit_product_path(product)
+      %td= link_to 'Destroy', product, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Product", new_product_path

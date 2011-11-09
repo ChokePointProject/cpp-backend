@@ -1,0 +1,13 @@
+- title "Reasons"
+
+%table
+  %tr
+    %th Name
+  - for reason in @reasons
+    %tr
+      %td= reason.name
+      %td= link_to 'Show', reason
+      %td= link_to 'Edit', edit_reason_path(reason)
+      %td= link_to 'Destroy', reason, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New Reason", new_reason_path

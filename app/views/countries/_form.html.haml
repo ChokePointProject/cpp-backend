@@ -1,0 +1,68 @@
+= form_for @country do |f|
+  = f.error_messages
+  %p
+    = f.label :continent_id
+    %br
+    = f.number_field :continent_id
+  %p
+    = f.label :code
+    %br
+    = f.text_field :code
+  %p
+    = f.label :name
+    %br
+    = f.text_field :name
+  %p
+    = f.label :isoNumeric
+    %br
+    = f.number_field :isoNumeric
+  %p
+    = f.label :isoAlpha3
+    %br
+    = f.text_field :isoAlpha3
+  %p
+    = f.label :fipsCode
+    %br
+    = f.text_field :fipsCode
+  %p
+    = f.label :capital
+    %br
+    = f.text_field :capital
+  %p
+    = f.label :areaInSqKm
+    %br
+    = f.text_field :areaInSqKm
+  %p
+    = f.label :population
+    %br
+    = f.number_field :population
+  %p
+    = f.label :currencyCode
+    %br
+    = f.text_field :currencyCode
+  %p
+    = f.label :languages
+    %br
+    = f.text_field :languages
+  %p
+    = f.label :geonameId
+    %br
+    = f.number_field :geonameId
+  %p
+    = f.label :bBoxWest
+    %br
+    = f.text_field :bBoxWest
+  %p
+    = f.label :bBoxNorth
+    %br
+    = f.text_field :bBoxNorth
+  %p
+    = f.label :bBoxEast
+    %br
+    = f.text_field :bBoxEast
+  %p
+    = f.label :bBoxSouth
+    %br
+    = f.text_field :bBoxSouth
+  %p
+    = f.submit

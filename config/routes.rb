@@ -1,4 +1,13 @@
 CppBackend::Application.routes.draw do
+
+  resources :countries
+
+  resources :continents
+
+  resources :reasons
+
+  resources :products
+
   resources :city_maps
 
   resources :country_maps 
