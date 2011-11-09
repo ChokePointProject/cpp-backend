@@ -19,13 +19,15 @@ class CountryMeasurementsController < ApplicationController
     if @country_measurements.size > 0 
       @country_measurements[0].is_suspicious = false
 
-      (1..@country_measurements.size-1).each do |i|
-        @country_measurements[i].is_suspicious = false
-
-        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
-          @country_measurements[i].is_suspicious = true
-        end
-      end 
+        (1..@country_measurements.size-1).each do |i|
+          @country_measurements[i].is_suspicious = false
+          begin 
+            if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
+              @country_measurements[i].is_suspicious = true
+            end
+          rescue 
+          end
+        end 
     end
 
     respond_to do |format|
