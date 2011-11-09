@@ -22,9 +22,9 @@ class CountryMeasurementsController < ApplicationController
       (1..@country_measurements.size-1).each do |i|
         @country_measurements[i].is_suspicious = false
 
-#        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
-#          @country_measurements[i].suspicious = true
-#        end
+        if ((@country_measurements[i].NumberOfClientsSplitByClientAndByServer - @country_measurements[i-1].NumberOfClientsSplitByClientAndByServer)/1) < droplimit
+          @country_measurements[i].is_suspicious = true
+        end
       end 
     end
 
