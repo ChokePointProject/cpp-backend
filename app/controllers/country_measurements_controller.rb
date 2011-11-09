@@ -2,16 +2,15 @@ class CountryMeasurementsController < ApplicationController
   # GET /country_measurements
   # GET /country_measurements.json
   def index
-    if params["country"].nil?
+    if params["country_code"].nil?
       #@country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).all
       @country_measurements = CountryMeasurement.all
     else
-      country = CountryMap.find_by_name(params["country"])
-      if country.nil?
-        @country_measurements = []
-      else 
-        # @country_measurements = CountryMeasurement.select([:month, :NumberOfClientsSplitByClientAndByServer]).where(:country => country.id)
+      begin 
+        country = CountryMap.find_by_name(Country.find_by_code(params["country_code"]).name) 
         @country_measurements = CountryMeasurement.where(:country => country.id)
+      rescue 
+        @country_measurements = []
       end
     end
 
