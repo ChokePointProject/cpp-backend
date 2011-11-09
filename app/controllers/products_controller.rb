@@ -1,7 +1,11 @@
 class ProductsController < ApplicationController
 
   def index
-    @products = Product.all
+    if params[:id]
+      @products = Product.find_by_id(params[:id])
+    else
+      @products = Product.all
+    end
 
     respond_to do |format|
       format.html

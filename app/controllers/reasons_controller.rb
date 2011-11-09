@@ -1,6 +1,10 @@
 class ReasonsController < ApplicationController
   def index
-    @reasons = Reason.all
+    if params[:id]
+      @reasons = Reason.find_by_id(params[:id])
+    else
+      @reasons = Reason.all
+    end
 
     respond_to do |format|
       format.html
