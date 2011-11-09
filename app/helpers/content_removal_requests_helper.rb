@@ -1,0 +1,2 @@
+module ContentRemovalRequestsHelper
+end

@@ -1,0 +1,28 @@
+= form_for @content_removal_request do |f|
+  = f.error_messages
+  %p
+    = f.label :content_removal_request_period_id
+    %br
+    = f.number_field :content_removal_request_period_id
+  %p
+    = f.label :product_id
+    %br
+    = f.number_field :product_id
+  %p
+    = f.label :reason_id
+    %br
+    = f.number_field :reason_id
+  %p
+    = f.label :court_orders
+    %br
+    = f.number_field :court_orders
+  %p
+    = f.label :executive
+    %br
+    = f.number_field :executive
+  %p
+    = f.label :items
+    %br
+    = f.number_field :items
+  %p
+    = f.submit

@@ -1,0 +1,27 @@
+- title "Content Removal Request"
+
+%p
+  %strong Content Removal Request Period:
+  = @content_removal_request.content_removal_request_period_id
+%p
+  %strong Product:
+  = @content_removal_request.product_id
+%p
+  %strong Reason:
+  = @content_removal_request.reason_id
+%p
+  %strong Court Orders:
+  = @content_removal_request.court_orders
+%p
+  %strong Executive:
+  = @content_removal_request.executive
+%p
+  %strong Items:
+  = @content_removal_request.items
+
+%p
+  = link_to "Edit", edit_content_removal_request_path(@content_removal_request)
+  |
+  = link_to "Destroy", @content_removal_request, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", content_removal_requests_path
