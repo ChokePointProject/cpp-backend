@@ -48,7 +48,7 @@ namespace :load_mlab_data do
     csv.each do |row|
       row = row.to_hash.with_indifferent_access
       citymap = CityMap.new(row.to_hash.symbolize_keys)
-      citymap.id = citymap.city.hash%(256 * 256 * 256 * 256 - 1)
+      citymap.id = Math.abs(citymap.city.hash%(256 * 256 * 256 * 256 - 1))
       citymap.save!
     end
   end
@@ -67,7 +67,7 @@ namespace :load_mlab_data do
         citymeasurement.month = "#{year}-#{month}-#{day}"
       rescue
       end
-      citymeasurement.city_map_id = citymeasurement.city.hash%(256 * 256 * 256 * 256 - 1)
+      citymeasurement.city_map_id = Math.abs(citymeasurement.city.hash%(256 * 256 * 256 * 256 - 1))
       citymeasurement.save!
     end
   end
