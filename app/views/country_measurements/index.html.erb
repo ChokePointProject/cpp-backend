@@ -3,12 +3,6 @@
 <table>
   <tr>
     <th>Month</th>
-    <th>Downloadthroughputsplitbyclientandbyserver</th>
-    <th>Uploadthroughputsplitbyclientandbyserver</th>
-    <th>Rttsplitbyclientandbyserver</th>
-    <th>Netlimitedsplitbyclientandbyserver</th>
-    <th>Clientlimitedsplitbyclientandbyserver</th>
-    <th>Winscalercvdsplitbyclientandbyserver</th>
     <th>Numberofclientssplitbyclientandbyserver</th>
     <th></th>
     <th></th>
@@ -18,20 +12,10 @@
 <% @country_measurements.each do |country_measurement| %>
   <tr>
     <td><%= country_measurement.month %></td>
-    <td><%= country_measurement.DownloadThroughputSplitByClientAndByServer %></td>
-    <td><%= country_measurement.UploadThroughputSplitByClientAndByServer %></td>
-    <td><%= country_measurement.RTTSplitByClientAndByServer %></td>
-    <td><%= country_measurement.NetLimitedSplitByClientAndByServer %></td>
-    <td><%= country_measurement.ClientLimitedSplitByClientAndByServer %></td>
-    <td><%= country_measurement.WinScaleRcvdSplitByClientAndByServer %></td>
     <td><%= country_measurement.NumberOfClientsSplitByClientAndByServer %></td>
-    <td><%= link_to 'Show', country_measurement %></td>
-    <td><%= link_to 'Edit', edit_country_measurement_path(country_measurement) %></td>
-    <td><%= link_to 'Destroy', country_measurement, confirm: 'Are you sure?', method: :delete %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New Country measurement', new_country_measurement_path %>
