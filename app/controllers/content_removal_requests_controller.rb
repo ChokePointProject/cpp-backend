@@ -6,10 +6,10 @@ class ContentRemovalRequestsController < ApplicationController
       @content_removal_requests = @content_removal_requests.where('content_removal_request_periods.country_id' => Country.find_by_code(params[:country_code]).id)
     end
     if params[:after]
-      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_start > ?", params[:after])
+      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_start >= ?", params[:after])
     end
     if params[:before]
-      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_end < ?", params[:before])
+      @content_removal_requests = @content_removal_requests.where("content_removal_request_periods.period_end <= ?", params[:before])
     end
     if params[:product_id]
       @content_removal_requests = @content_removal_requests.where('product_id' => params[:product_id])
