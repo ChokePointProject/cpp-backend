@@ -24,6 +24,7 @@ ActiveRecord::Schema.define(:version => 20111111215915) do
   end
 
   create_table "city_measurements", :force => true do |t|
+    t.string   "city"
     t.date     "month"
     t.float    "DownloadThroughputSplitByClientAndByServer"
     t.float    "UploadThroughputSplitByClientAndByServer"
