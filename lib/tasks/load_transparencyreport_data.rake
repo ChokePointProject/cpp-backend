@@ -62,11 +62,30 @@ namespace :load_transparencyreport_data do
     end
   end
 
+  desc "Loading transparencyreport data: user data requests"
+  task :load_user_data_requests => :environment do
+    # Read in XML data
+    c = CSV.parse(open('https://www.google.com/transparencyreport/governmentrequests/google-user-data-requests.csv'), :headers => true)
+    c.each do |r|
+      period_end = Date.strptime(r[0], '%m/%d/%Y')
+      e = UserDataRequest.new(
+        :period_start => Date.new(period_end.year, period_end.month-5, 1),
+        :period_end => period_end,
+        :requests => r[3],
+        :percentage_complied => r[4],
+        :accounts => r[5]
+      )
+      e.country_id = Country.find_by_code(r[2]).id
+      e.save!
+    end
+  end
+
   desc "Run all transparencyreport data tasks"
   task :all => [
     :load_content_removal_requests,
     :load_content_removal_requests_by_product,
-    :load_content_removal_requests_by_product_and_reason
+    :load_content_removal_requests_by_product_and_reason,
+    :load_user_data_requests
   ]
 
 end
