@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111109012514) do
+ActiveRecord::Schema.define(:version => 20111111215915) do
 
   create_table "city_maps", :force => true do |t|
     t.string   "city"
@@ -24,8 +24,6 @@ ActiveRecord::Schema.define(:version => 20111109012514) do
   end
 
   create_table "city_measurements", :force => true do |t|
-    t.integer  "city_map_id"
-    t.string   "city"
     t.date     "month"
     t.float    "DownloadThroughputSplitByClientAndByServer"
     t.float    "UploadThroughputSplitByClientAndByServer"
@@ -116,6 +114,17 @@ ActiveRecord::Schema.define(:version => 20111109012514) do
 
   create_table "reasons", :force => true do |t|
     t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "user_data_requests", :force => true do |t|
+    t.date     "period_start"
+    t.date     "period_end"
+    t.integer  "country_id"
+    t.integer  "requests"
+    t.float    "percentage_complied"
+    t.integer  "accounts"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

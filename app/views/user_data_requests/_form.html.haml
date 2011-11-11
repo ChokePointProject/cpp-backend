@@ -1,0 +1,28 @@
+= form_for @user_data_request do |f|
+  = f.error_messages
+  %p
+    = f.label :period_start
+    %br
+    = f.date_select :period_start
+  %p
+    = f.label :period_end
+    %br
+    = f.date_select :period_end
+  %p
+    = f.label :country_id
+    %br
+    = f.number_field :country_id
+  %p
+    = f.label :requests
+    %br
+    = f.number_field :requests
+  %p
+    = f.label :percentage_complied
+    %br
+    = f.text_field :percentage_complied
+  %p
+    = f.label :accounts
+    %br
+    = f.number_field :accounts
+  %p
+    = f.submit

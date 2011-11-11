@@ -1,0 +1,15 @@
+one:
+  period_start: 2011-11-11
+  period_end: 2011-11-11
+  country_id: 1
+  requests: 1
+  percentage_complied: 1.5
+  accounts: 1
+
+two:
+  period_start: 2011-11-11
+  period_end: 2011-11-11
+  country_id: 1
+  requests: 1
+  percentage_complied: 1.5
+  accounts: 1

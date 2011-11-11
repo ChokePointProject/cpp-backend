@@ -1,0 +1,27 @@
+- title "User Data Request"
+
+%p
+  %strong Period Start:
+  = @user_data_request.period_start
+%p
+  %strong Period End:
+  = @user_data_request.period_end
+%p
+  %strong Country:
+  = @user_data_request.country_id
+%p
+  %strong Requests:
+  = @user_data_request.requests
+%p
+  %strong Percentage Complied:
+  = @user_data_request.percentage_complied
+%p
+  %strong Accounts:
+  = @user_data_request.accounts
+
+%p
+  = link_to "Edit", edit_user_data_request_path(@user_data_request)
+  |
+  = link_to "Destroy", @user_data_request, :confirm => 'Are you sure?', :method => :delete
+  |
+  = link_to "View All", user_data_requests_path

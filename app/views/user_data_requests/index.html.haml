@@ -1,0 +1,23 @@
+- title "User Data Requests"
+
+%table
+  %tr
+    %th Period start
+    %th Period end
+    %th Country
+    %th Requests
+    %th Percentage complied
+    %th Accounts
+  - for user_data_request in @user_data_requests
+    %tr
+      %td= user_data_request.period_start
+      %td= user_data_request.period_end
+      %td= user_data_request.country_id
+      %td= user_data_request.requests
+      %td= user_data_request.percentage_complied
+      %td= user_data_request.accounts
+      %td= link_to 'Show', user_data_request
+      %td= link_to 'Edit', edit_user_data_request_path(user_data_request)
+      %td= link_to 'Destroy', user_data_request, :confirm => 'Are you sure?', :method => :delete
+
+%p= link_to "New User Data Request", new_user_data_request_path
