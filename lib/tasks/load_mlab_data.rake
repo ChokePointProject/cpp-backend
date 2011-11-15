@@ -31,9 +31,7 @@ namespace :load_mlab_data do
       row = row.to_hash.with_indifferent_access
       countrymeasurement = CountryMeasurement.new(row.to_hash.symbolize_keys)
       begin
-        day = row['month'].split('-')[1]
-        month = row['month'].split('-')[0]
-        year = row['month'].split('-')[2]
+        month, day, year = row['month'].split('-')
         countrymeasurement.month = "#{year}-#{month}-#{day}"
       rescue
       end
